@@ -1,2 +1,2 @@
 # App
-Aplicación de escritorio con tecnología Python y la librería Tkinter
+#Aplicación de escritorio con tecnología Python, la librería Tkinter y mucho amor ;)
