@@ -6,12 +6,17 @@ La principal ventaja de esta aplicación, aparte de la rapidez para ejecutar los
 
 La desventaja que tienen la mayoría de las aplicaciones de escritorio es el mantenimiento de sus actualizaciones, ya que habrá que recorrer cada una de las estaciones de trabajo para ejecutar la actualización.
 
-Este proyecto está desarrollado con **Tecnología Python**, la **Librería Tkinter**, **MySQL** para la Base de Datos y mucho ❤️ ;) [G&C](https://github.com/luisjofre/Aplicaciones/commit/bfb31584cfbf26680bf5ae060c8a66bc70f1d9dd "G&C")
+Este proyecto está desarrollado con **Tecnología Python**, la **Librería Tkinter**, **MySQL** para la Base de Datos y mucho ❤️ ;)
+[G&C](https://github.com/luisjofre/Aplicaciones/commit/bfb31584cfbf26680bf5ae060c8a66bc70f1d9dd "G&C")
 
 **Requisitos:**
 
 	- Sistema operativo Windows 10 o superior.
+	
+	
 	- Intalación de MySQL Workbench en su sistema operativo, y
+	
+	
 	- Un editor de código.
 
 Descargar **MySQL** desde su sitio oficial:
@@ -25,8 +30,10 @@ Descargar **MySQL** desde su sitio oficial:
 Una vez instalado MySQL Workbench, deberá actualizar las credenciales de acceso a la base de datos:
 
 	Host: '127.0.0.1',
+	
 
 	User: 'root',
+	
 
 	Password: '***********'
 
@@ -39,17 +46,17 @@ Descargar las líneas de código:
 
 **Paso 3**
 
-Crear lo siguiente en el gestor de bases de datos MySQL:
+Crear lo siguiente en el gestor de bases de datos MySQL Workbench:
 
 
 Nombre de la Base de Datos:
 
-	"comodatos".
+	"comodatos"
 	
 	
 Nombre de la Tabla:
 
-	"contratos".
+	"contratos"
 	
 
 id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fedevo    |estado  |date      |time    |
@@ -76,20 +83,20 @@ id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fede
 	teniendo en cuenta las columnas de la tabla creada.
 ****
 
-	Vista previa de la pantalla de inicio o interfaz principal sin conectar a la base datos.
+	Vista de la pantalla inicio o interfaz principal sin conexión a la base datos.
 ![](https://i.postimg.cc/8cKC0ccp/Captura1.png)
 
-	Conectado ya con la base de datos MySQL Workbench, permite realizar todas las operaciones de agregar o buscar un
-	nuevo contrato, editar o eliminar los registros de la base de datos. Aquí en la imagen vemos la acción del botón
-	"Mostrar todo".
+	Conectado ya con la base de datos MySQL Workbench, permite realizar las operaciones de agregar o buscar un
+	nuevo contrato, editar o eliminar los registros de la base de datos. 
+	Aquí en la imagen vemos la acción del botón "Mostrar todo".
 ![](https://i.postimg.cc/Wp6YJrqL/Captura2.png)
 
-	En cuanto a la búsqueda de contratos de comodato, puede buscar por Id, nombre de usuario, apellidos, run
-	dispositivo, marca, modelo, n°serie, etc.
+	En cuanto a la búsqueda de contratos de comodato, usted puede buscar por Id, nombre de usuario, apellidos, run dispositivo,
+	marca, modelo, n°serie, etc.
 ![](https://i.postimg.cc/D0yrGSRn/Captura3.png)
 
-	Por último, no está demás recordar realizar los respaldos periódicamente de la base de datos.
-	Esta aplicación te permite exportar un archivo de tipo CSV de Excel, con todos los registros de la base de datos.
+	Por último, no está demás recordar que hay realizar los respaldos periódicamente de la base de datos, y esta aplicación
+	te permite exportar un archivo CSV, con todos los registros de la base de datos a tu computador.
 ![](https://i.postimg.cc/t4HgvKCV/Captura4.png)
 
 	Una imagen de la Base de Datos en MySQL Workbench con sus columnas y registros.
@@ -97,12 +104,11 @@ id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fede
 
 **Licencia**
 
-	Se pone a disposición este código con licencia open source (OSS), para su uso y modificación
-	con el objetivo seguir fortaleciendo esta hermosa comunidad.
+	Open Source Software (OSS), para su uso y modificación, con el objetivo seguir fortaleciendo esta hermosa comunidad.
 
-**¿Qué es Open  Source?**
+**¿Qué es Open Source Software?**
 
-	El software open source es un código diseñado de manera que sea accesible al público: todos pueden ver, modificar
+	El open source software es un código diseñado de manera que sea accesible al público: todos pueden ver, modificar
 	y distribuir el código de la forma que consideren conveniente.
 
 	El software open source se desarrolla de manera descentralizada y colaborativa, así que depende de la revisión
@@ -124,5 +130,5 @@ id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fede
 ![](https://i.postimg.cc/sg4xvjsj/LinkedIn.png)  linkedin.com/in/luis-jofré-pérez-508b2755
 
 
-**Copiapo, julio 2022**
+**Copiapó, julio 2022**
 
