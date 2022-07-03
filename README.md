@@ -29,7 +29,8 @@ Una vez instalado MySQL Workbench, deberá actualizar las credenciales en el có
 
 **Paso 2**
 
-	Descargar código: https://github.com/luisjofre/Aplicaciones.git
+Código:
+	https://github.com/luisjofre/Aplicaciones.git
 
 
 **Paso 3**
