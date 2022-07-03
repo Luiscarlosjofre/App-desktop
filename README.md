@@ -69,6 +69,9 @@ id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fede
 		- estado varchar(45)
 		- date varchar(45)
 		- time varchar(45)
+
+**Paso 3**
+	Una vez creada la base de datos comodatos y la tabla contratos, puede importar sus registros desde un archivo CSV o JSON teniendo en cuenta las columnas 	 de la tabla creada.
 ****
 
 	Vista previa de la pantalla de inicio o interfaz principal sin conectar a la base datos.
