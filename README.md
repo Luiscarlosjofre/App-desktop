@@ -91,14 +91,15 @@ Ir al **Zip con el código**
 	https://github.com/luisjofre/Aplicaciones.git
 	
 	Una vez allí, hacer clic en Code, luego clic en Download Zip para descargar el archivo comprimido.
-	Posteriormente, lo descomprime en el escritorio y ejecute el archivo con el nombre sistema.py desde su editor de cógido preferido.
+	Posteriormente, lo descomprime en el escritorio y ejecute el archivo con el nombre sistema.py desde su editor de
+	cógido preferido.
 
 
 **PASO 5**
 	
-	Luego de reemplazar el nombre del establecimiento, la insignia y todos los datos que aparecen de escuela Las Canteras y haber terminado
-	de modificar el código, listo para producción yquiera compilarlo para convertirlo en ejecutable, existen algunas alternativas como 
-	pyinstaller o Auto-Py-To-Exe
+	Luego de reemplazar el nombre del establecimiento, la insignia y todos los datos que aparecen de escuela Las Canteras
+	y haber terminado de modificar el código, listo para producción yquiera compilarlo para convertirlo en ejecutable,
+	existen algunas alternativas como pyinstaller o Auto-Py-To-Exe
 
 ***
 **HASTA LA FECHA ESTE ES EL AVANCE DEL PROYECTO (cabe mencionar que en la escuela Las Canteras ya está en uso la aplicación).**
