@@ -1,4 +1,4 @@
-##  **APLICACIÓN DE ESCRITORIO G&C**
+##  **APLICACIÓN DE ESCRITORIO G&C v2.0**
 
 Esta aplicación de escritorio está diseñada para la ***gestión y control de equipos tecnológicos***. 
 
@@ -18,7 +18,8 @@ Este proyecto está siendo desarrollado con ***Tecnología Python***, ***Tkinter
 **Requisitos:**
 
 	- Sistema operativo Windows 10 o superior.
-	- MySQL Workbench instalado en su sistema operativo y
+	- Python 3.0 o superior instalado
+	- MySQL Workbench instalado y
 	- Un editor de código.
 
 Descarga de **MySQL Community Server** desde su sitio oficial:
@@ -88,7 +89,7 @@ id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fede
 	teniendo en cuenta el nombre y la cantidad de columnas creadas.
 
 
-**Paso 5**
+**PASO 5**
 	
 	Para compilar y convertir en ejecutable el código existen algunas alternativas como pyinstaller o Auto-Py-To-Exe
 
@@ -99,8 +100,8 @@ id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fede
 
 ***
 
-	Conectado ya con la base de datos MySQL Workbench (luz verde), permite realizar las operaciones de agregar, buscar un nuevo
-	contrato, editar o eliminar los registros de la base de datos. 
+	Conectado ya con la base de datos MySQL Workbench (indicador visual luz verde), permite realizar las operaciones de agregar, 
+	buscar un nuevo contrato, editar o eliminar los registros de la base de datos. 
 	En la siguiente imagen vemos el resultaso (en color gris) de la acción del botón "Mostrar todo".
 ![](https://i.postimg.cc/Wp6YJrqL/Captura2.png)
 
@@ -112,7 +113,7 @@ id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fede
 
 ***
 
-	No está demás recordar que hay realizar los respaldos periódicamente de la base de datos, y esta aplicación permite exportar
+	No está demás recordar de realizar los respaldos periódicamente de la base de datos. Esta aplicación te permite exportar
 	un archivo CSV, con todos los registros de la base de datos a tu computador.
 ![](https://i.postimg.cc/t4HgvKCV/Captura4.png)
 
