@@ -36,9 +36,9 @@ Crear lo siguiente en el gestor de bases de datos MySQL:
 
 ###### Nombre de la Tabla - **contratos**, y sus respetivas **columnas**
 
-id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	|fepre	|fedevo|estado	|date	|time	|
--------------| -------------|-----------|---------|------------|--------|---------|------|--------|--------|
-1 | Nombre  | Apellidos  |00.000.000-0|dispositivo|marca|modelo|000000000000|00-00-0000|00-00-0000|estado|00-00-0000|00:00:00|
+id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fedevo    |estado  |date      |time    |
+--------|---------------|---------------|---------------|-----------|-----------|-------|------------|----------|----------|--------|----------|--------|
+1	|	Nombre  |      Apellidos|   00.000.000-0|dispositivo|      marca| modelo|000000000000|00-00-0000|00-00-0000|  estado|00-00-0000|00:00:00|
 
 		- id int AI PK
 		- nombre varchar(100)
