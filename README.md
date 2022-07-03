@@ -71,31 +71,34 @@ id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fede
 		- time varchar(45)
 
 **Paso 3**
-	Una vez creada la base de datos comodatos y la tabla contratos, puede importar sus registros desde un archivo CSV o JSON teniendo 
-	en cuenta las columnas de la tabla creada.
+
+	Una vez creada la base de datos comodatos y la tabla contratos, puede importar sus registros desde un archivo CSV o JSON
+	teniendo en cuenta las columnas de la tabla creada.
 ****
 
 	Vista previa de la pantalla de inicio o interfaz principal sin conectar a la base datos.
 ![](https://i.postimg.cc/8cKC0ccp/Captura1.png)
 
-	Conectado ya con la base de datos **MySQL Workbench**, permite realizar todas las operaciones de agregar o buscar un
+	Conectado ya con la base de datos MySQL Workbench, permite realizar todas las operaciones de agregar o buscar un
 	nuevo contrato, editar o eliminar los registros de la base de datos. Aquí en la imagen vemos la acción del botón
-	**"Mostrar todo"**.
+	"Mostrar todo".
 ![](https://i.postimg.cc/Wp6YJrqL/Captura2.png)
 
-	En cuanto a la búsqueda de contratos de comodato, se puede hacer por Id, nombre de usuario, apellidos, run o por
+	En cuanto a la búsqueda de contratos de comodato, puede buscar por Id, nombre de usuario, apellidos, run
 	dispositivo, marca, modelo, n°serie, etc.
 ![](https://i.postimg.cc/D0yrGSRn/Captura3.png)
 
-	Por último, recordad realizar los respaldos de la base de datos cada cierto tiempo. En esta aplicación puedes exportar
-	un archivo de tipo CSV de Excel, con todos los registros de la base de datos.
+	Por último, no está demás recordar realizar los respaldos periódicamente de la base de datos.
+	Esta aplicación te permite exportar un archivo de tipo CSV de Excel, con todos los registros de la base de datos.
 ![](https://i.postimg.cc/t4HgvKCV/Captura4.png)
 
-	La Base de Datos del proyecto en MySQL Workbench con sus columnas y registros.
+	Una imagen de la Base de Datos en MySQL Workbench con sus columnas y registros.
 ![](https://i.postimg.cc/CxQwT9wN/Captura5.png)
 
 **Licencia**
-	Se pone a disposición de las escuelas públicas y su comunidad escolar este software con licencia open source (OSS).
+
+	Se pone a disposición este código con licencia open source (OSS), para su uso y modificación
+	con el objetivo seguir fortaleciendo esta hermosa comunidad.
 
 **¿Qué es Open  Source?**
 
@@ -120,5 +123,6 @@ id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fede
 
 ![](https://i.postimg.cc/sg4xvjsj/LinkedIn.png)  linkedin.com/in/luis-jofré-pérez-508b2755
 
-	Copiapo, julio 2022
+
+**Copiapo, julio 2022**
 
