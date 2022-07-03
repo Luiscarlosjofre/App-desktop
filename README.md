@@ -173,9 +173,25 @@ Ir al **Zip con el código**
 
 	Formulario para controlar, limitar y evitar el acceso a la base de datos a personas ajenas al establecimiento por medio de
 	credenciales de usuario y contraseña.
+	
 Imagen del diseño v1
+
 ![](https://i.postimg.cc/fTKLTthV/login1.png)
 
+
+Imagen del diseño v1.1
+
+![](https://i.postimg.cc/htZtTkvg/login3.png)
+
+
+Imagen del diseño v1.2
+
+![](https://i.postimg.cc/fTKLTthV/login1.png)
+
+
+Imagen del diseño v1.3
+
+![](https://i.postimg.cc/vm1Hz0xn/login4.png)
 
 **Integrar un botón "Informe en PDF"**
 
