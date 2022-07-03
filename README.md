@@ -103,8 +103,8 @@ Ir al **Zip con el código**
 	Auto-Py-To-Exe.
 
 ***
-**HASTA LA FECHA ESTE ES EL AVANCE DEL PROYECTO (cabe mencionar que escuela Las Canteras ya tiene en
-uso la aplicación).**
+**HASTA LA FECHA ESTE ES EL AVANCE DEL PROYECTO 
+(escuela Las Canteras ya tiene en uso la aplicación).**
 
 
 	Vista de la pantalla inicio o interfaz principal sin conexión a la base datos 
@@ -250,6 +250,7 @@ uso la aplicación).**
 ![](https://i.postimg.cc/sg4xvjsj/LinkedIn.png)		linkedin.com/in/luis-jofré-pérez-508b2755
 
 ![](https://i.postimg.cc/zf10SGBY/github.png)		https://github.com/luisjofre
+
 
 ***Copiapó, julio 2022***
 
