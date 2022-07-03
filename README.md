@@ -177,6 +177,7 @@ Ir al **Zip con el código**
 
 
 **Imagen del PDF final**
+
 ![](https://i.postimg.cc/1tdsksG3/Captura-de-pantalla-93.png)
 
 
