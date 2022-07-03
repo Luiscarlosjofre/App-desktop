@@ -6,14 +6,16 @@ Es un **CRUD** (***Create, Read, Update and Delete***), es decir, que puede ***c
 
 La principal ventaja de esta aplicación con una base de datos conectada de manera local ***-aparte de la rapidez para ejecutar los procesos dado que sus controles y eventos ocurren en el mismo equipo-***, es ofrecer capacidad de uso sin conexión a internet, siendo funcional en cualquier momento brindando un beneficio por sobre las aplicaciones web.
 
-Y la desventaja que tienen la mayoría de las aplicaciones de escritorio es el mantenimiento de sus actualizaciones, ya que ***habrá que recorrer cada una 
-de las estaciones de trabajo para ejecutar la actualización.***
+La desventaja que tiene esta aplicación de escritorio es el mantenimiento de sus actualizaciones, ya que ***habrá que recorrer cada una 
+de las estaciones de trabajo para ejecutar la actualización cada vez que lo requiera*** :)
 
 Este proyecto está siendo desarrollado con ***Tecnología Python***, ***Tkinter***, ***MySQL Community Server para la Base de Datos y mucho, mucho*** ❤️
 
 [G&C](https://github.com/luisjofre/Aplicaciones/commit/bfb31584cfbf26680bf5ae060c8a66bc70f1d9dd "G&C")
 
 ***
+
+Si quiere descargar y modificar el código considere lo siguiente:
 
 **Requisitos:**
 
@@ -31,23 +33,13 @@ Descarga de **MySQL Community Server** desde su sitio oficial:
 
 **PASO 1**
 
-Una vez instalado ***MySQL Workbench,*** deberá actualizar las credenciales de acceso a la base de datos:
+Una vez descargado e instalado ***MySQL Workbench,*** deberá actualizar las credenciales de acceso a la base de datos:
 
 	Host: '127.0.0.1',
 	User: 'root',
 	Password: '***********'
 
 **PASO 2**
-
-Descargar el **Zip con el código desde:**
-
-	https://github.com/luisjofre/Aplicaciones.git
-	
-	Clic en Code, luego clic en Download Zip para descargar el archivo comprimido.
-	Descomprima el archivo en el escritorio, posteriormente ejecute el archivo con el nombre sistema.py desde su editor 
-	de cógido preferido.
-
-**PASO 3**
 
 Crear lo siguiente en el gestor de bases de datos ***MySQL Workbench:***
 
@@ -84,15 +76,29 @@ id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fede
 		- date varchar(45)
 		- time varchar(45)
 
-**PASO 4**
+
+**PASO 3**
+
 
 	Una vez creada la base de datos comodatos y la tabla contratos, podrá importar sus registros en un archivo CSV o JSON
 	teniendo en cuenta el nombre y la cantidad de columnas creadas.
 
 
+**PASO 4**
+
+Ir al **Zip con el código en:**
+
+	https://github.com/luisjofre/Aplicaciones.git
+	
+	Hacer clic en Code, luego clic en Download Zip para descargar el archivo comprimido.
+	Posteiormente, descomprima el archivo en el escritorio y ejecute el archivo con el nombre sistema.py desde su editor 
+	de cógido preferido.
+
+
 **PASO 5**
 	
-	Para compilar y convertir en ejecutable el código existen algunas alternativas como pyinstaller o Auto-Py-To-Exe
+	Luego de modificar el código y lo tenga listo, puede compilar y convertir en ejecutable el código, para ello existen
+	algunas alternativas como pyinstaller o Auto-Py-To-Exe
 
 ***
 	
