@@ -78,9 +78,9 @@ id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fede
 	Vista previa de la pantalla de inicio o interfaz principal sin conectar a la base datos.
 ![](https://i.postimg.cc/8cKC0ccp/Captura1.png)
 
-	Conectado ya con la base de datos MySQL Workbench, permite realizar todas las operaciones de agregar o buscar un
+	Conectado ya con la base de datos **MySQL Workbench**, permite realizar todas las operaciones de agregar o buscar un
 	nuevo contrato, editar o eliminar los registros de la base de datos. Aquí en la imagen vemos la acción del botón
-	"**Mostrar todo**".
+	**"Mostrar todo"**.
 ![](https://i.postimg.cc/Wp6YJrqL/Captura2.png)
 
 	En cuanto a la búsqueda de contratos de comodato, se puede hacer por Id, nombre de usuario, apellidos, run o por
