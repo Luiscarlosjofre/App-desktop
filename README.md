@@ -97,8 +97,8 @@ Ir al **Zip con el código en:**
 
 **PASO 5**
 	
-	Luego de modificar el código y lo tenga listo, puede compilar y convertir en ejecutable el código, para ello existen
-	algunas alternativas como pyinstaller o Auto-Py-To-Exe
+	Luego de modificar el código y lo tenga listo, puede compilar y convertirlo en ejecutable, para ello existen algunas
+	alternativas como pyinstaller o Auto-Py-To-Exe
 
 ***
 	
@@ -109,30 +109,30 @@ Ir al **Zip con el código en:**
 
 	Conectado ya con la base de datos MySQL Workbench (indicador visual luz verde), permite realizar las operaciones de agregar, 
 	buscar un nuevo contrato, editar o eliminar los registros de la base de datos. 
-	En la siguiente imagen vemos el resultaso (en color gris) de la acción del botón "Mostrar todo".
+	En la siguiente imagen vemos el resultaso (en color gris) la acción del botón "Mostrar todo".
 ![](https://i.postimg.cc/Wp6YJrqL/Captura2.png)
 
 ***
 
-	En cuanto a la búsqueda de contratos de comodato, usted puede buscar por id, nombre de usuario, apellidos, run, dispositivo,
-	marca, modelo, n°serie, etc.
+	En cuanto a la búsqueda de contratos de comodato, puedes buscar por id, nombre, apellidos, run, dispositivo, marca, modelo, 
+	n°serie, etc.
 ![](https://i.postimg.cc/D0yrGSRn/Captura3.png)
 
 ***
 
-	No está demás recordar de realizar los respaldos periódicamente de la base de datos. 
+	No está demás recordar que hay que respaldar la base de datos periódicamente. 
 	Esta aplicación te permite exportar a tu computador un archivo CSV, con todos los registros de la base de datos.
 ![](https://i.postimg.cc/t4HgvKCV/Captura4.png)
 
 ***
-	Por último, una imagen de la Base de Datos MySQL Workbench con sus columnas y registros.
+	Una imagen de la Base de Datos MySQL Workbench con sus columnas y registros.
 ![](https://i.postimg.cc/CxQwT9wN/Captura5.png)
 
 ***
 
 **Licencia**
 
-	Open Source Software (OSS) o sofftware de código abierto para su uso y modificación, 
+	Open Source Software (OSS) o software de código abierto para su uso y modificación, 
 	con el objetivo seguir fortaleciendo esta hermosa comunidad.
 
 **¿Qué es Open Source Software?**
