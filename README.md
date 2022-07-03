@@ -75,32 +75,33 @@ id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fede
 
 **Paso 3**
 
-	Una vez creada la base de datos comodatos y la tabla contratos, puede importar sus registros desde un archivo CSV o JSON
-	teniendo en cuenta las columnas de la tabla creada.
+	Una vez creada la base de datos comodatos y la tabla contratos, podrá importar sus registros en un archivo CSV o JSON
+	teniendo en cuenta el nombre y la cantidad de columnas creadas.
 ****
 
-	Vista de la pantalla inicio o interfaz principal sin conexión a la base datos.
+	Vista de la pantalla inicio o interfaz principal sin conexión aún a la base datos (luz roja).
 ![](https://i.postimg.cc/8cKC0ccp/Captura1.png)
 
-	Conectado ya con la base de datos MySQL Workbench, permite realizar las operaciones de agregar o buscar un nuevo contrato,
-	editar o eliminar los registros de la base de datos. 
-	Aquí en la imagen vemos la acción del botón "Mostrar todo".
+	Conectado ya con la base de datos MySQL Workbench (luz verde), permite realizar las operaciones de agregar, buscar un nuevo
+	contrato, editar o eliminar los registros de la base de datos. 
+	En la siguiente imagen vemos el resultaso (en color gris) de la acción del botón "Mostrar todo".
 ![](https://i.postimg.cc/Wp6YJrqL/Captura2.png)
 
-	En cuanto a la búsqueda de contratos de comodato, usted puede buscar por Id, nombre de usuario, apellidos, run dispositivo,
+	En cuanto a la búsqueda de contratos de comodato, usted puede buscar por id, nombre de usuario, apellidos, run dispositivo,
 	marca, modelo, n°serie, etc.
 ![](https://i.postimg.cc/D0yrGSRn/Captura3.png)
 
-	Por último, no está demás recordar que hay realizar los respaldos periódicamente de la base de datos, y esta aplicación
-	te permite exportar un archivo CSV, con todos los registros de la base de datos a tu computador.
+	No está demás recordar que hay realizar los respaldos periódicamente de la base de datos, y esta aplicación permite exportar
+	un archivo CSV, con todos los registros de la base de datos a tu computador.
 ![](https://i.postimg.cc/t4HgvKCV/Captura4.png)
 
-	Una imagen de la Base de Datos en MySQL Workbench con sus columnas y registros.
+	Por último, una imagen de la Base de Datos MySQL Workbench con sus columnas y registros.
 ![](https://i.postimg.cc/CxQwT9wN/Captura5.png)
 
 **Licencia**
 
-	Open Source Software (OSS), para su uso y modificación, con el objetivo seguir fortaleciendo esta hermosa comunidad.
+	Open Source Software (OSS) o sofftware de código abierto para su uso y modificación, con el objetivo seguir fortaleciendo esta
+	hermosa comunidad.
 
 **¿Qué es Open Source Software?**
 
