@@ -163,7 +163,7 @@ Ir al **Zip con el código**
 
 
 ***
-**PRÓXIMAS ACTUALIZACIONES (aun en etapa de diseño)**
+**PRÓXIMAS ACTUALIZACIONES (en etapa de diseño)**
 
 - Control de acceso a la aplicación
 - Botón Informe en PDF
@@ -173,13 +173,14 @@ Ir al **Zip con el código**
 
 	Formulario para controlar, limitar y evitar el acceso a la base de datos a personas ajenas al establecimiento por medio de
 	credenciales de usuario y contraseña.
-![]()
+Imagen del diseño v1
+![](https://i.postimg.cc/fTKLTthV/login1.png)
 
 
-**Integración de un botón "Informe en PDF"**
+**Integrar un botón "Informe en PDF"**
 
-	A la interfaz principal se agregará un botón "Informe en PDF", creación de un informe personalizado en PDF con Python 3
-	y la librería FPDF.
+	A la interfaz principal se agregará un botón "Informe en PDF", al hacer clic aparecerá otra pantalla para la creación de un
+	informe personalizado en PDF, la que podría visualizarse a pantalla dividida mientras define las opciones de impresión.
 
 
 **Imagen de la interfaz de configuración de la página para impresión.**
