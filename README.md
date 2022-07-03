@@ -154,15 +154,6 @@ Ir al **Zip con el código**
 
 ***
 
-![](https://i.postimg.cc/25j6WsS4/Gmail.png)		luisjofreperez@gmail.com
-
-![](https://i.postimg.cc/2SD3kbp9/Twitter.png)		@Luiscarlosjofre
-
-![](https://i.postimg.cc/sg4xvjsj/LinkedIn.png)		linkedin.com/in/luis-jofré-pérez-508b2755
-
-
-
-***
 **PRÓXIMAS ACTUALIZACIONES (en etapa de diseño)**
 
 - Control de acceso a la aplicación
@@ -207,6 +198,15 @@ Imagen del diseño v1.3
 **Imagen del PDF final**
 
 ![](https://i.postimg.cc/1tdsksG3/Captura-de-pantalla-93.png)
+
+
+***
+
+![](https://i.postimg.cc/25j6WsS4/Gmail.png)		luisjofreperez@gmail.com
+
+![](https://i.postimg.cc/2SD3kbp9/Twitter.png)		@Luiscarlosjofre
+
+![](https://i.postimg.cc/sg4xvjsj/LinkedIn.png)		linkedin.com/in/luis-jofré-pérez-508b2755
 
 
 ***Copiapó, julio 2022***
