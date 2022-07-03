@@ -10,8 +10,8 @@ Este proyecto está desarrollado con **Tecnología Python**, la **Librería Tkin
 
 **Requisitos:**
 - Sistema operativo Windows 10 o superior.
-- Intalación de MySQL Workbench en su sistema operativo.
-- Editor de código.
+- Intalación de MySQL Workbench en su sistema operativo, y
+- Un editor de código.
 
 Descarga de **MySQL**:  https://www.mysql.com/
 
