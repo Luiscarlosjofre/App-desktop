@@ -9,9 +9,11 @@ La principal ventaja de esta aplicación con una base de datos conectada de mane
 Y la desventaja que tienen la mayoría de las aplicaciones de escritorio es el mantenimiento de sus actualizaciones, ya que ***habrá que recorrer cada una 
 de las estaciones de trabajo para ejecutar la actualización.***
 
-Este proyecto está siendo desarrollado con ***Tecnología Python***, ***La Librería Tkinter***, ***MySQL Community Server para la Base de Datos y mucho*** ❤️
+Este proyecto está siendo desarrollado con ***Tecnología Python***, ***Tkinter***, ***MySQL Community Server para la Base de Datos y mucho, mucho*** ❤️
 
 [G&C](https://github.com/luisjofre/Aplicaciones/commit/bfb31584cfbf26680bf5ae060c8a66bc70f1d9dd "G&C")
+
+***
 
 **Requisitos:**
 
@@ -40,7 +42,7 @@ Descargar el **Zip con el código desde:**
 
 	https://github.com/luisjofre/Aplicaciones.git
 	Clic en Code, luego clic en Download Zip para descargar el archivo comprimido.
-***
+
 	Descomprima el archivo en el escritorio, posteriormente ejecute el archivo con el nombre sistema.py desde su editor de cógido preferido.
 
 **PASO 3**
@@ -95,22 +97,30 @@ id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fede
 	Vista de la pantalla inicio o interfaz principal sin conexión aún a la base datos (luz roja).
 ![](https://i.postimg.cc/8cKC0ccp/Captura1.png)
 
+***
+
 	Conectado ya con la base de datos MySQL Workbench (luz verde), permite realizar las operaciones de agregar, buscar un nuevo
 	contrato, editar o eliminar los registros de la base de datos. 
 	En la siguiente imagen vemos el resultaso (en color gris) de la acción del botón "Mostrar todo".
 ![](https://i.postimg.cc/Wp6YJrqL/Captura2.png)
 
+***
+
 	En cuanto a la búsqueda de contratos de comodato, usted puede buscar por id, nombre de usuario, apellidos, run dispositivo,
 	marca, modelo, n°serie, etc.
 ![](https://i.postimg.cc/D0yrGSRn/Captura3.png)
+
+***
 
 	No está demás recordar que hay realizar los respaldos periódicamente de la base de datos, y esta aplicación permite exportar
 	un archivo CSV, con todos los registros de la base de datos a tu computador.
 ![](https://i.postimg.cc/t4HgvKCV/Captura4.png)
 
+***
 	Por último, una imagen de la Base de Datos MySQL Workbench con sus columnas y registros.
 ![](https://i.postimg.cc/CxQwT9wN/Captura5.png)
 
+***
 
 **Licencia**
 
@@ -133,6 +143,7 @@ id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fede
 
 	fuente: https://www.redhat.com/es/topics/open-source/what-is-open-source
 
+***
 
 ![](https://i.postimg.cc/25j6WsS4/Gmail.png)  luisjofreperez@gmail.com
 
