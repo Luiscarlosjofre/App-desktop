@@ -22,7 +22,7 @@ Descargar **MySQL** desde su sitio oficial:
 
 **Paso 1**
 
-Una vez instalado MySQL Workbench, deberá actualizar las credenciales en el código para dar acceso a la base de datos:
+Una vez instalado MySQL Workbench, deberá actualizar las credenciales de acceso a la base de datos:
 
 	Host: '127.0.0.1',
 
