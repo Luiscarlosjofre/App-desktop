@@ -56,6 +56,9 @@ id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fede
 --------|---------------|---------------|---------------|-----------|-----------|-------|------------|----------|----------|--------|----------|--------|
 1	|	Nombre  |      Apellidos|   00.000.000-0|dispositivo|      marca| modelo|000000000000|00-00-0000|00-00-0000|  estado|00-00-0000|00:00:00|
 
+
+**Información de las columnas**
+
 		- id int AI PK
 		- nombre varchar(100)
 		- apellidos varchar(100)
