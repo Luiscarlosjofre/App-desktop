@@ -121,8 +121,8 @@ uso la aplicación).**
 
 ***
 
-	En cuanto a la búsqueda de contratos de comodato, puedes buscar por id, nombre, apellidos, run, 
-	dispositivo, marca, modelo, n°serie, etc.
+	En cuanto a la búsqueda de los registros en la base de datos, puedes buscar por id, nombre, apellidos,
+	run, dispositivo, marca, modelo, n°serie, etc.
 ![](https://i.postimg.cc/D0yrGSRn/Captura3.png)
 
 ***
