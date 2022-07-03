@@ -91,7 +91,7 @@ Ir al **Zip con el código en:**
 	https://github.com/luisjofre/Aplicaciones.git
 	
 	Hacer clic en Code, luego clic en Download Zip para descargar el archivo comprimido.
-	Posteiormente, descomprima el archivo en el escritorio y ejecute el archivo con el nombre sistema.py desde su editor 
+	Posteriormente, descomprima el archivo en el escritorio y ejecute el archivo con el nombre sistema.py desde su editor 
 	de cógido preferido.
 
 
@@ -109,7 +109,7 @@ Ir al **Zip con el código en:**
 
 	Conectado ya con la base de datos MySQL Workbench (indicador visual luz verde), permite realizar las operaciones de agregar, 
 	buscar un nuevo contrato, editar o eliminar los registros de la base de datos. 
-	En la siguiente imagen vemos el resultaso (en color gris) la acción del botón "Mostrar todo".
+	En la siguiente imagen vemos el resultado (en color gris) de la acción del botón "Mostrar todo".
 ![](https://i.postimg.cc/Wp6YJrqL/Captura2.png)
 
 ***
@@ -121,7 +121,7 @@ Ir al **Zip con el código en:**
 ***
 
 	No está demás recordar que hay que respaldar la base de datos periódicamente. 
-	Esta aplicación te permite exportar a tu computador un archivo CSV, con todos los registros de la base de datos.
+	Esta aplicación te permite exportar un archivo .CSV a tu computador con todos los registros de tu base de datos.
 ![](https://i.postimg.cc/t4HgvKCV/Captura4.png)
 
 ***
