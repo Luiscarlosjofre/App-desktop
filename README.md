@@ -6,9 +6,7 @@ La principal ventaja de esta aplicación -aparte de la rapidez para ejecutar los
 
 La desventaja que tienen la mayoría de las aplicaciones de escritorio es el mantenimiento de sus actualizaciones, ya que habrá que recorrer cada una de las estaciones de trabajo para ejecutar la actualización.
 
-Este proyecto está desarrollado con ***Tecnología Python***, la ***Librería Tkinter***, ***MySQL Community Server*** para la Base de Datos y ***mucho*** ❤️ 
-
-***;)***
+Este proyecto está desarrollado con ***Tecnología Python***, la ***Librería Tkinter***, ***MySQL Community Server*** para la Base de Datos y ***mucho*** ❤️ ;)
 
 [G&C](https://github.com/luisjofre/Aplicaciones/commit/bfb31584cfbf26680bf5ae060c8a66bc70f1d9dd "G&C")
 
