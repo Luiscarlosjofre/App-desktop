@@ -178,25 +178,30 @@ uso la aplicación).**
 
 ***
 	
-Imagen del diseño v1
+***Diseño versión1.0***
 
 ![](https://i.postimg.cc/bwwvGyz3/login2.png)
 
 
 ***
-Imagen del diseño v1.1
+
+***Diseño versión1.1***
 
 ![](https://i.postimg.cc/htZtTkvg/login3.png)
 
 
 ***
-Imagen del diseño v1.2
+
+***Diseño versión1.2***
 
 ![](https://i.postimg.cc/fTKLTthV/login1.png)
 
 
 ***
-Imagen del diseño v1.3
+
+
+***Diseño versión1.3***
+
 ![](https://i.postimg.cc/vm1Hz0xn/login4.png)
 
 
@@ -211,7 +216,7 @@ Imagen del diseño v1.3
 
 ***
 
-Imagen versión1.0 
+***Diseño versión1.0*** 
 	
 	Interfaz de configuración de la página para impresión. Opción Combobox.
 
@@ -221,7 +226,7 @@ Imagen versión1.0
 ***
 
 
-Imagen versión2.0
+***Diseño versión2.0***
 
 	Interfaz de configuración de la página de impresión mejorada. Opción Checkbox.
 
