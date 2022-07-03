@@ -14,7 +14,7 @@ Este proyecto está desarrollado con **Tecnología Python**, la **Librería Tkin
 	- Intalación de MySQL Workbench en su sistema operativo, y
 	- Un editor de código.
 
-Descarga de **MySQL**:
+Descargar **MySQL** desde su sitio oficial:
 
 	https://www.mysql.com/
 
