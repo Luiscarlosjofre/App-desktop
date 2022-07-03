@@ -29,7 +29,7 @@ Una vez instalado MySQL Workbench, deberá actualizar las credenciales en el có
 
 **Paso 2**
 
-Código:
+Descargar las líneas de código:
 
 	https://github.com/luisjofre/Aplicaciones.git
 
@@ -37,9 +37,13 @@ Código:
 **Paso 3**
 
 Crear lo siguiente en el gestor de bases de datos MySQL:
-###### Nombre de la Base de Datos: **"comodatos"**.
 
-###### Nombre de la Tabla: **"contratos"**, y sus respetivas **columnas**
+
+	Nombre de la Base de Datos: **"comodatos"**.
+	
+
+	Nombre de la Tabla: **"contratos"**, y sus respetivas **columnas**.
+	
 
 id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fedevo    |estado  |date      |time    |
 --------|---------------|---------------|---------------|-----------|-----------|-------|------------|----------|----------|--------|----------|--------|
