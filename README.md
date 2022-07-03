@@ -9,11 +9,13 @@ La desventaja que tienen la mayoría de las aplicaciones de escritorio es el man
 Este proyecto está desarrollado con **Tecnología Python**, la **Librería Tkinter**, **MySQL** para la Base de Datos y mucho ❤️ ;) [G&C](https://github.com/luisjofre/Aplicaciones/commit/bfb31584cfbf26680bf5ae060c8a66bc70f1d9dd "G&C")
 
 **Requisitos:**
+
 	- Sistema operativo Windows 10 o superior.
 	- Intalación de MySQL Workbench en su sistema operativo, y
 	- Un editor de código.
 
 Descarga de **MySQL**:
+
 	https://www.mysql.com/
 
 **Instalación**
