@@ -171,7 +171,7 @@ Ir al **Zip con el código**
 	y la librería FPDF.
 
 
-**Imagen de la interfaz de configuración impresión.**
+**Imagen de la interfaz de configuración de la página para impresión.**
 
 ![](https://i.postimg.cc/B6bJ7X1z/Captura-de-pantalla-87.png)
 
