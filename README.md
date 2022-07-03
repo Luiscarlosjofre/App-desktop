@@ -80,8 +80,8 @@ id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fede
 **PASO 3**
 
 
-	Una vez creada la base de datos "comodatos" y la tabla "contratos", podrá importar sus registros en un archivo CSV o JSON
-	teniendo en cuenta el nombre y la cantidad de columnas creadas.
+	Una vez creada la base de datos "comodatos" y la tabla "contratos", podrá importar sus registros en
+	un archivo CSV o JSON teniendo en cuenta el nombre y la cantidad de columnas creadas.
 
 
 **PASO 4**
@@ -91,39 +91,45 @@ Ir al **Zip con el código**
 	https://github.com/luisjofre/Aplicaciones.git
 	
 	Una vez allí, hacer clic en Code, luego clic en Download Zip para descargar el archivo comprimido.
-	Descomprima el Zip en el escritorio, ejecute el archivo con el nombre sistema.py desde su editor de cógido preferido.
+	Descomprima el Zip en el escritorio, ejecute el archivo con el nombre sistema.py desde su editor de
+	cógido preferido.
 
 
 **PASO 5**
 	
-	Luego de reemplazar el nombre del establecimiento, la insignia y todos los datos que aparecen de escuela Las Canteras
-	y haber terminado de modificar el código, listo para producción y quiera compilarlo para convertirlo en ejecutable,
-	existen algunas alternativas como pyinstaller o Auto-Py-To-Exe.
+	Luego de reemplazar el nombre del establecimiento, la insignia y todos los datos que aparecen de
+	escuela Las Canteras y haber terminado de modificar el código, listo para producción y quiera 
+	compilarlo para convertirlo en ejecutable, existen algunas alternativas como pyinstaller o 
+	Auto-Py-To-Exe.
 
 ***
-**HASTA LA FECHA ESTE ES EL AVANCE DEL PROYECTO (cabe mencionar que en la escuela Las Canteras ya está en uso la aplicación).**
+**HASTA LA FECHA ESTE ES EL AVANCE DEL PROYECTO (cabe mencionar que en la escuela Las Canteras ya está en
+uso la aplicación).**
 
 
-	Vista de la pantalla inicio o interfaz principal sin conexión a la base datos (indicador visual luz roja).
+	Vista de la pantalla inicio o interfaz principal sin conexión a la base datos 
+	indicador visual luz roja).
 ![](https://i.postimg.cc/8cKC0ccp/Captura1.png)
 
 ***
 
-	Conectado ya con la base de datos MySQL Workbench (indicador visual luz verde), permite realizar las operaciones de agregar, 
-	buscar un nuevo contrato, editar o eliminar los registros de la base de datos. 
+	Conectado ya con la base de datos MySQL Workbench (indicador visual luz verde), permite realizar 
+	las operaciones de agregar, buscar un nuevo contrato, editar o eliminar los registros de la base
+	de datos. 
 	En la siguiente imagen vemos el resultado (en color gris) de la acción del botón "Mostrar todo".
 ![](https://i.postimg.cc/Wp6YJrqL/Captura2.png)
 
 ***
 
-	En cuanto a la búsqueda de contratos de comodato, puedes buscar por id, nombre, apellidos, run, dispositivo, marca, modelo, 
-	n°serie, etc.
+	En cuanto a la búsqueda de contratos de comodato, puedes buscar por id, nombre, apellidos, run, 
+	dispositivo, marca, modelo, n°serie, etc.
 ![](https://i.postimg.cc/D0yrGSRn/Captura3.png)
 
 ***
 
 	No está demás recordar que hay que respaldar la base de datos periódicamente. 
-	Esta aplicación te permite exportar un archivo .CSV a tu computador con todos los registros de tu base de datos.
+	Esta aplicación te permite exportar un archivo .CSV a tu computador con todos los registros de tu
+	base de datos.
 ![](https://i.postimg.cc/t4HgvKCV/Captura4.png)
 
 ***
@@ -134,21 +140,22 @@ Ir al **Zip con el código**
 
 **Licencia**
 
-	Open Source Software (OSS) o software de código abierto, con el objetivo seguir fortaleciendo esta hermosa comunidad.
+	Open Source Software (OSS) o software de código abierto, 
+	con el objetivo seguir fortaleciendo esta hermosa comunidad.
 
 **¿Qué es Open Source Software?**
 
 	El open source software es un código diseñado de manera que sea accesible al público: 
 	todos pueden ver, modificar y distribuir el código de la forma que consideren conveniente.
 
-	El software open source se desarrolla de manera descentralizada y colaborativa, así que depende de la revisión
-	entre compañeros y la producción de la comunidad. Además, suele ser más económico, flexible y duradero que sus
-	alternativas propietarias, ya que las encargadas de su desarrollo son las comunidades y no un solo autor o una
-	sola empresa.
+	El software open source se desarrolla de manera descentralizada y colaborativa, así que depende de la
+	revisión entre compañeros y la producción de la comunidad. Además, suele ser más económico, flexible
+	y duradero que sus alternativas propietarias, ya que las encargadas de su desarrollo son las 
+	comunidades y no un solo autor o una sola empresa.
 
-	El open source se convirtió en un movimiento y una forma de trabajo que trasciende la producción del software.
-	Adopta los valores y el modelo de producción descentralizada del software open source para hallar nuevas 
-	maneras	de solucionar los problemas en las comunidades.
+	El open source se convirtió en un movimiento y una forma de trabajo que trasciende la producción 
+	del software. Adopta los valores y el modelo de producción descentralizada del software open source
+	para hallar nuevas maneras de solucionar los problemas en las comunidades.
 
 	fuente: https://www.redhat.com/es/topics/open-source/what-is-open-source
 
@@ -166,8 +173,8 @@ Ir al **Zip con el código**
 
 ***CONTROL DE ACCESO A LA APLICACIÓN***
 
-	Formulario para controlar, limitar y evitar el acceso a la base de datos a personas ajenas al establecimiento
-	educacional por medio de credenciales de usuario y contraseña.
+	Formulario para controlar, limitar y evitar el acceso a la base de datos a personas ajenas al
+	establecimiento	educacional por medio de credenciales de usuario y contraseña.
 
 ***
 	
@@ -198,8 +205,9 @@ Imagen del diseño v1.3
 
 ***"INFORME EN PDF"***
 
-	A la interfaz principal se agregará un botón "Informe en PDF", que al hacer clic aparecerá otra pantalla para la creación de un
-	informe personalizado en PDF, visualizando a pantalla dividida mientras define las opciones de impresión.
+	A la interfaz principal se agregará un botón "Informe en PDF", que al hacer clic aparecerá otra 
+	pantalla para la creación de un	informe personalizado en PDF, visualizando a pantalla dividida
+	mientras define las opciones de impresión.
 
 ***
 
