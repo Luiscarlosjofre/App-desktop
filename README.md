@@ -1,17 +1,16 @@
 ##  **APLICACIÓN DE ESCRITORIO G&C v2.0**
 
-***Este Proyecto de Mejora, fue diseñado para mejorar la gestión y control de los equipos tecnológicos en la escuela Las Canteras, ubicada en la ciudad de Copiapó, el cual me permitió cumplir con la Práctica Profesional para la Carrera Técnico de Nivel Superior en Informática, en el Instituto Superior de Artes
-y Ciencias de la Comunicación IACC.***
+***Este Proyecto de Mejora, fue diseñado para beneficiar la gestión de los equipos tecnológicos que tiene escuela Las Canteras, el cual me permitió cumplir con la Práctica Profesional para la Carrera Técnico de Nivel Superior en Informática, en el Instituto Superior de Artes y Ciencias de la Comunicación IACC.***
 
-Es un ***CRUD*** (***Create, Read, Update and Delete***), es decir, que puede ***crear, buscar, editar y eliminar*** registros de la base de datos.
+***Es un CRUD, que en computación es el acrónimo de Crear, Leer, Actualizar y Borrar (del original en inglés: Create, Read, Update and Delete). Se usa para referirse a las funciones básicas en bases de datos o la capa de persistencia en un software.***
 
-La principal ventaja de esta aplicación***-aparte de la rapidez para ejecutar los procesos dado que sus controles y eventos ocurren en el mismo 
-equipo-***, es ofrecer capacidad de uso sin conexión a internet, siendo funcional en cualquier momento brindando un beneficio por sobre las aplicaciones
+La principal ventaja de esta aplicación ***-aparte de la rapidez para ejecutar los procesos dado que sus controles y eventos ocurren en el mismo 
+equipo- es ofrecer capacidad de uso sin conexión a internet, siendo funcional en cualquier momento brindando un beneficio por sobre las aplicaciones
 web, siempre y cuando este conectada a una base de datos localmente.*** 
 
-Ahora, la desventaja que tiene esta aplicación de escritorio, es el mantenimiento de sus actualizaciones, ya que ***habrá que recorrer cada una de las estaciones de trabajo para ejecutar la actualización cada vez que lo requiera*** :)
+Ahora, la desventaja que tiene esta aplicación de escritorio, ***es el mantenimiento de sus actualizaciones, ya que habrá que recorrer cada una de las estaciones de trabajo para ejecutar la actualización siempre que lo requiera*** :)
 
-Este proyecto está siendo desarrollado con ***Tecnología Python***, ***Tkinter***, ***MySQL Community Server*** para la Base de Datos y ***mucho, mucho*** ❤️
+Este proyecto está siendo desarrollado con ***Tecnología Python, Tkinter, MySQL Community Server para la Base de Datos y mucho, mucho*** ❤️
 
 [G&Cv2.0](https://github.com/luisjofre/Aplicaciones/commit/bfb31584cfbf26680bf5ae060c8a66bc70f1d9dd "G&Cv2.0")
 
@@ -63,20 +62,19 @@ id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fede
 
 
 **Información para la creación de las columnas**
-
-		- id int AI PK
-		- nombre varchar(100)
-		- apellidos varchar(100)
-		- run varchar(30)
-		- dispositivo varchar(45)
-		- marca varchar(45)
-		- modelo varchar(45)
-		- serie varchar(45)
-		- fepre varchar(45) (fecha préstamo)
-		- fedevo varchar(45) (fecha devolución)
-		- estado varchar(45)
-		- date varchar(45)
-		- time varchar(45)
+- id int AI PK
+- nombre varchar(100)
+- apellidos varchar(100)
+- run varchar(30)
+- dispositivo varchar(45)
+- marca varchar(45)
+- modelo varchar(45)
+- serie varchar(45)
+- fepre varchar(45) (fecha préstamo)
+- fedevo varchar(45) (fecha devolución)
+- estado varchar(45)
+- date varchar(45)
+- time varchar(45)
 
 
 **PASO 3**
