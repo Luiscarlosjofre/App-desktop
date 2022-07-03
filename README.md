@@ -95,7 +95,7 @@ fuente: https://www.redhat.com/es/topics/open-source/what-is-open-source
 
 luisjofreperez@gmail.com
 
-![](https://i.postimg.cc/DznpFgyj/Twitter-icon-icons-com-66803.png)@Luiscarlosjofre
+![](https://i.postimg.cc/3xBVk665/Twitter-icon-icons-com-66803.png)@Luiscarlosjofre
 
 Copiapo, julio 2022
 
