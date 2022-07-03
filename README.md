@@ -42,7 +42,7 @@ Una vez descargado ***MySQL Workbench,*** requerirá actualizar las credenciales
 
 **PASO 2**
 
-Crear lo siguiente en ***MySQL Workbench***
+instalar ***MySQL Workbench*** y crear lo siguiente: 
 
 
 **Nombre de la Base de Datos:**
