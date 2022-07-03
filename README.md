@@ -80,6 +80,8 @@ El software open source es un código diseñado de manera que sea accesible al p
 El software open source se desarrolla de manera descentralizada y colaborativa, así que depende de la revisión entre compañeros y la producción de la comunidad. Además, suele ser más económico, flexible y duradero que sus alternativas propietarias, ya que las encargadas de su desarrollo son las comunidades y no un solo autor o una sola empresa.
 
 El open source se convirtió en un movimiento y una forma de trabajo que trasciende la producción del software. Adopta los valores y el modelo de producción descentralizada del software open source para hallar nuevas maneras de solucionar los problemas en las comunidades y los sectores.
+
+
 fuente: https://www.redhat.com/es/topics/open-source/what-is-open-source
 
 Luis Jofré Pérez
