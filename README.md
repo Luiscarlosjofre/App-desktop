@@ -134,8 +134,7 @@ Ir al **Zip con el código**
 
 **Licencia**
 
-	Open Source Software (OSS) o software de código abierto para su uso y modificación, 
-	con el objetivo seguir fortaleciendo esta hermosa comunidad.
+	Open Source Software (OSS) o software de código abierto, con el objetivo seguir fortaleciendo esta hermosa comunidad.
 
 **¿Qué es Open Source Software?**
 
