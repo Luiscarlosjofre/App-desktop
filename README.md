@@ -71,19 +71,23 @@ id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fede
 		- time varchar(45)
 
 **Paso 3**
-	Una vez creada la base de datos comodatos y la tabla contratos, puede importar sus registros desde un archivo CSV o JSON teniendo en cuenta las columnas 	 de la tabla creada.
+	Una vez creada la base de datos comodatos y la tabla contratos, puede importar sus registros desde un archivo CSV o JSON teniendo en cuenta
+	las columnas de la tabla creada.
 ****
 
 	Vista previa de la pantalla de inicio o interfaz principal sin conectar a la base datos.
 ![](https://i.postimg.cc/8cKC0ccp/Captura1.png)
 
-	Conectado ya con la base de datos MySQL Workbench, permite realizar todas las operaciones de agregar o buscar un nuevo contrato, editar o eliminar los 		registros de la base de datos. Aquí en la imagen vemos la acción del botón "**Mostrar todo**".
+	Conectado ya con la base de datos MySQL Workbench, permite realizar todas las operaciones de agregar o buscar un nuevo contrato, 
+	editar o eliminar los registros de la base de datos. Aquí en la imagen vemos la acción del botón "**Mostrar todo**".
 ![](https://i.postimg.cc/Wp6YJrqL/Captura2.png)
 
-	En cuanto a la búsqueda de contratos de comodato, se puede hacer por Id, nombre de usuario, apellidos, run o por dispositivo, marca, modelo, n°serie, 		etc.
+	En cuanto a la búsqueda de contratos de comodato, se puede hacer por Id, nombre de usuario, apellidos, run o por dispositivo, 
+	marca, modelo, n°serie, etc.
 ![](https://i.postimg.cc/D0yrGSRn/Captura3.png)
 
-	Por último, recordad realizar los respaldos de la base de datos cada cierto tiempo. En esta aplicación puedes exportar un archivo de tipo CSV de Excel, 	con todos los registros de la base de datos.
+	Por último, recordad realizar los respaldos de la base de datos cada cierto tiempo. En esta aplicación puedes exportar un archivo
+	de tipo CSV de Excel, con todos los registros de la base de datos.
 ![](https://i.postimg.cc/t4HgvKCV/Captura4.png)
 
 	La Base de Datos del proyecto en MySQL Workbench con sus columnas y registros.
@@ -94,9 +98,11 @@ id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fede
 
 **¿Qué es Open  Source?**
 
-	El software open source es un código diseñado de manera que sea accesible al público: todos pueden ver, modificar y distribuir el código de la forma que 	 consideren conveniente.
+	El software open source es un código diseñado de manera que sea accesible al público: todos pueden ver, modificar y distribuir el código
+	de la forma que consideren conveniente.
 
-	El software open source se desarrolla de manera descentralizada y colaborativa, así que depende de la revisión entre compañeros y la producción de la 		comunidad. Además, suele ser más económico, flexible y duradero que sus alternativas propietarias, ya que las encargadas de su desarrollo son las 		comunidades y no un solo autor o una sola empresa.
+	El software open source se desarrolla de manera descentralizada y colaborativa, así que depende de la revisión entre compañeros y la 
+	producción de la comunidad. Además, suele ser más económico, flexible y duradero que sus alternativas propietarias, ya que las encargadas de su 		desarrollo son las comunidades y no un solo autor o una sola empresa.
 
 	El open source se convirtió en un movimiento y una forma de trabajo que trasciende la producción del software. Adopta los valores y el modelo de 		producción descentralizada del software open source para hallar nuevas maneras de solucionar los problemas en las comunidades y los sectores.
 
