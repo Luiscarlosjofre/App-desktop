@@ -32,8 +32,10 @@ Una vez instalado MySQL Workbench, deberá actualizar las credenciales de acceso
 	Host: '127.0.0.1',
 	
 
+
 	User: 'root',
-	
+
+
 
 	Password: '***********'
 
@@ -86,8 +88,8 @@ id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fede
 	Vista de la pantalla inicio o interfaz principal sin conexión a la base datos.
 ![](https://i.postimg.cc/8cKC0ccp/Captura1.png)
 
-	Conectado ya con la base de datos MySQL Workbench, permite realizar las operaciones de agregar o buscar un
-	nuevo contrato, editar o eliminar los registros de la base de datos. 
+	Conectado ya con la base de datos MySQL Workbench, permite realizar las operaciones de agregar o buscar un nuevo contrato,
+	editar o eliminar los registros de la base de datos. 
 	Aquí en la imagen vemos la acción del botón "Mostrar todo".
 ![](https://i.postimg.cc/Wp6YJrqL/Captura2.png)
 
