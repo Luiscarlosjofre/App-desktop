@@ -96,7 +96,7 @@ id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fede
 
 ***
 	
-	Vista de la pantalla inicio o interfaz principal sin conexión aún a la base datos (luz roja).
+	Vista de la pantalla inicio o interfaz principal sin conexión a la base datos (indicador visual luz roja).
 ![](https://i.postimg.cc/8cKC0ccp/Captura1.png)
 
 ***
@@ -108,14 +108,14 @@ id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fede
 
 ***
 
-	En cuanto a la búsqueda de contratos de comodato, usted puede buscar por id, nombre de usuario, apellidos, run dispositivo,
+	En cuanto a la búsqueda de contratos de comodato, usted puede buscar por id, nombre de usuario, apellidos, run, dispositivo,
 	marca, modelo, n°serie, etc.
 ![](https://i.postimg.cc/D0yrGSRn/Captura3.png)
 
 ***
 
-	No está demás recordar de realizar los respaldos periódicamente de la base de datos. Esta aplicación te permite exportar
-	un archivo CSV, con todos los registros de la base de datos a tu computador.
+	No está demás recordar de realizar los respaldos periódicamente de la base de datos. 
+	Esta aplicación te permite exportar a tu computador un archivo CSV, con todos los registros de la base de datos.
 ![](https://i.postimg.cc/t4HgvKCV/Captura4.png)
 
 ***
@@ -126,13 +126,13 @@ id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fede
 
 **Licencia**
 
-	Open Source Software (OSS) o sofftware de código abierto para su uso y modificación, con el objetivo seguir fortaleciendo esta
-	hermosa comunidad.
+	Open Source Software (OSS) o sofftware de código abierto para su uso y modificación, 
+	con el objetivo seguir fortaleciendo esta hermosa comunidad.
 
 **¿Qué es Open Source Software?**
 
-	El open source software es un código diseñado de manera que sea accesible al público: todos pueden ver, modificar
-	y distribuir el código de la forma que consideren conveniente.
+	El open source software es un código diseñado de manera que sea accesible al público: 
+	todos pueden ver, modificar y distribuir el código de la forma que consideren conveniente.
 
 	El software open source se desarrolla de manera descentralizada y colaborativa, así que depende de la revisión
 	entre compañeros y la producción de la comunidad. Además, suele ser más económico, flexible y duradero que sus
@@ -140,18 +140,18 @@ id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fede
 	sola empresa.
 
 	El open source se convirtió en un movimiento y una forma de trabajo que trasciende la producción del software.
-	Adopta los valores y el modelo de producción descentralizada del software open source para hallar nuevas maneras
-	de solucionar los problemas en las comunidades y los sectores.
+	Adopta los valores y el modelo de producción descentralizada del software open source para hallar nuevas 
+	maneras	de solucionar los problemas en las comunidades.
 
 	fuente: https://www.redhat.com/es/topics/open-source/what-is-open-source
 
 ***
 
-![](https://i.postimg.cc/25j6WsS4/Gmail.png)  luisjofreperez@gmail.com
+![](https://i.postimg.cc/25j6WsS4/Gmail.png)		luisjofreperez@gmail.com
 
-![](https://i.postimg.cc/2SD3kbp9/Twitter.png)  @Luiscarlosjofre
+![](https://i.postimg.cc/2SD3kbp9/Twitter.png)		@Luiscarlosjofre
 
-![](https://i.postimg.cc/sg4xvjsj/LinkedIn.png)  linkedin.com/in/luis-jofré-pérez-508b2755
+![](https://i.postimg.cc/sg4xvjsj/LinkedIn.png)		linkedin.com/in/luis-jofré-pérez-508b2755
 
 
 ***Copiapó, julio 2022***
