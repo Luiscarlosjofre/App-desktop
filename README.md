@@ -6,6 +6,7 @@ ________________________________________________________________________________
 Es útil como **Inventario de Contratos de Comodatos**, pero... 
 
 **¿Qué es el comodato?**
+
 El comodato o préstamo de uso es un **contrato** en el cual una de las partes entrega a la otra gratuitamente una especie, mueble o raíz, para que haga uso de ella **con el compromiso y obligación de conservar el bien prestado y restituirlo al concluir su uso**.
 ____________________________________________________________________________________________________________________________________________________________
 
