@@ -32,9 +32,9 @@ Descargar código: https://github.com/luisjofre/Aplicaciones.git
 **Paso 3**
 
 Crear lo siguiente en el gestor de bases de datos MySQL:
-###### Nombre de la Base de Datos **comodatos**.
+###### Nombre de la Base de Datos: **"comodatos"**.
 
-###### Nombre de la Tabla - **contratos**, y sus respetivas **columnas**
+###### Nombre de la Tabla: **"contratos"**, y sus respetivas **columnas**
 
 id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fedevo    |estado  |date      |time    |
 --------|---------------|---------------|---------------|-----------|-----------|-------|------------|----------|----------|--------|----------|--------|
