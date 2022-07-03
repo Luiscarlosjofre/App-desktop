@@ -2,13 +2,13 @@
 
 ***Este Proyecto de Mejora, fue diseñado para beneficiar la gestión de los equipos tecnológicos que tiene escuela Las Canteras, el cual me permitió cumplir con la Práctica Profesional para la Carrera Técnico de Nivel Superior en Informática, en el Instituto Superior de Artes y Ciencias de la Comunicación IACC.***
 
-***Es un CRUD, que en computación es el acrónimo de Crear, Leer, Actualizar y Borrar (en inglés: Create, Read, Update and Delete). Se usa para referirse a las funciones básicas en bases de datos o la capa de persistencia en un software.***
+***Esta aplicación es un CRUD, que en computación es el acrónimo de Crear, Leer, Actualizar y Borrar (en inglés: Create, Read, Update and Delete). Se usa para referirse a las funciones básicas en bases de datos.***
 
 La principal ventaja de esta aplicación ***-aparte de la rapidez para ejecutar los procesos dado que sus controles y eventos ocurren en el mismo 
 equipo- es ofrecer capacidad de uso sin conexión a internet, siendo funcional en cualquier momento brindando un beneficio por sobre las aplicaciones
 web, siempre y cuando este conectada a una base de datos localmente.*** 
 
-Ahora, la desventaja que tiene esta aplicación de escritorio, ***es el mantenimiento de sus actualizaciones, ya que habrá que recorrer cada una de las estaciones de trabajo para ejecutar la actualización siempre que lo requiera*** :)
+Ahora, la desventaja que tiene esta aplicación de escritorio, ***es el mantenimiento de sus actualizaciones, siempre que lo requiera, habrá que recorrer cada una de las estaciones de trabajo para ejecutar la actualización*** :)
 
 Este proyecto está siendo desarrollado con ***Tecnología Python, Tkinter, MySQL Community Server para la Base de Datos y mucho, mucho*** ❤️
 
@@ -34,7 +34,7 @@ Descarga de **MySQL Community Server** desde su sitio oficial:
 
 **PASO 1**
 
-Una vez descargado e instalado ***MySQL Workbench,*** deberá actualizar las credenciales de acceso a la base de datos:
+Una vez descargado ***MySQL Workbench,*** requerirá actualizar las credenciales de acceso antes de instalar el gestor de bases de datos.
 
 	Host: '127.0.0.1',
 	User: 'root',
@@ -42,7 +42,7 @@ Una vez descargado e instalado ***MySQL Workbench,*** deberá actualizar las cre
 
 **PASO 2**
 
-Crear lo siguiente en el gestor de bases de datos ***MySQL Workbench:***
+Crear lo siguiente en ***MySQL Workbench***
 
 
 **Nombre de la Base de Datos:**
@@ -80,28 +80,30 @@ id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fede
 **PASO 3**
 
 
-	Una vez creada la base de datos comodatos y la tabla contratos, podrá importar sus registros en un archivo CSV o JSON
+	Una vez creada la base de datos "comodatos" y la tabla "contratos", podrá importar sus registros en un archivo CSV o JSON
 	teniendo en cuenta el nombre y la cantidad de columnas creadas.
 
 
 **PASO 4**
 
-Ir al **Zip con el código en:**
+Ir al **Zip con el código**
 
 	https://github.com/luisjofre/Aplicaciones.git
 	
-	Hacer clic en Code, luego clic en Download Zip para descargar el archivo comprimido.
-	Posteriormente, descomprima el archivo en el escritorio y ejecute el archivo con el nombre sistema.py desde su editor 
-	de cógido preferido.
+	Una vez allí, hacer clic en Code, luego clic en Download Zip para descargar el archivo comprimido.
+	Posteriormente, lo descomprime en el escritorio y ejecute el archivo con el nombre sistema.py desde su editor de cógido preferido.
 
 
 **PASO 5**
 	
-	Luego de modificar el código y lo tenga listo, puede compilar y convertirlo en ejecutable, para ello existen algunas
-	alternativas como pyinstaller o Auto-Py-To-Exe
+	Luego de reemplazar el nombre del establecimiento, la insignia y todos los datos que aparecen de escuela Las Canteras y haber terminado
+	de modificar el código, listo para producción yquiera compilarlo para convertirlo en ejecutable, existen algunas alternativas como 
+	pyinstaller o Auto-Py-To-Exe
 
 ***
-	
+**HASTA LA FECHA ESTE ES EL AVANCE DEL PROYECTO (cabe mencionar que en la escuela Las Canteras ya está en uso la aplicación).**
+
+
 	Vista de la pantalla inicio o interfaz principal sin conexión a la base datos (indicador visual luz roja).
 ![](https://i.postimg.cc/8cKC0ccp/Captura1.png)
 
@@ -158,6 +160,23 @@ Ir al **Zip con el código en:**
 ![](https://i.postimg.cc/2SD3kbp9/Twitter.png)		@Luiscarlosjofre
 
 ![](https://i.postimg.cc/sg4xvjsj/LinkedIn.png)		linkedin.com/in/luis-jofré-pérez-508b2755
+
+
+
+***
+**PRÓXIMA ACTUALIZACIÓN**
+
+**Integración de un botón "Informe en PDF"**
+
+	A la interfaz principal se agregará un botón "Informe en PDF", creación de un informe personalizado en PDF con Python 3
+	y la librería FPDF
+
+Imagen de la interfaz de configuración impresión.
+
+![](https://i.postimg.cc/B6bJ7X1z/Captura-de-pantalla-87.png)
+
+Imagen del PDF final
+![](https://i.postimg.cc/1tdsksG3/Captura-de-pantalla-93.png)
 
 
 ***Copiapó, julio 2022***
