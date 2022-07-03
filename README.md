@@ -93,11 +93,11 @@ El open source se convirtió en un movimiento y una forma de trabajo que trascie
 fuente: https://www.redhat.com/es/topics/open-source/what-is-open-source
 
 
-  ![](https://i.postimg.cc/RZHq97bH/Gmail.png) luisjofreperez@gmail.com
+  ![](https://i.postimg.cc/25j6WsS4/Gmail.png) luisjofreperez@gmail.com
 
-![](https://i.postimg.cc/43vdHJG4/Twitter.png)@Luiscarlosjofre
+![](https://i.postimg.cc/2SD3kbp9/Twitter.png) @Luiscarlosjofre
 
-![](https://i.postimg.cc/wBYMB1Sb/LinkedIn.png)
+![](https://i.postimg.cc/sg4xvjsj/LinkedIn.png) linkedin.com/in/luis-jofré-pérez-508b2755
 
 Copiapo, julio 2022
 
