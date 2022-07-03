@@ -1,10 +1,10 @@
 ##  **APLICACIÓN DE ESCRITORIO G&C**
 
-Esta aplicación de escritorio depende de un software el que se instala en un equipo de cómputo que cumpla con los requerimientos técnicos de instalación y que pueda conectarse a su base de datos de manera local.
+Esta aplicación de escritorio para su funcionamiento depende de un software que se instala en un equipo de cómputo y de una conexión a la base de datos de manera local.
 
-Su principal ventaja, aparte de la rapidez para ejecutar los procesos, dado que sus controles y eventos ocurren en el mismo equipo, es ofrecer capacidad de uso sin conexión a internet, siendo funcional en cualquier momento brindando un beneficio por sobre las aplicaciones web.
+Su principal ventaja, aparte de la rapidez para ejecutar los procesos -dado que sus controles y eventos ocurren en el mismo equipo- es ofrecer capacidad de uso sin conexión a internet, siendo funcional en cualquier momento brindando un beneficio por sobre las aplicaciones web.
 
-La desventaja que tienen la mayoría de las aplicaciones de escritorio es el mantenimiento de las actualizaciones, ya que se deberá recorrer cada una de las estaciones de trabajo para ejecutar la actualización.
+La desventaja que tienen la mayoría de las aplicaciones de escritorio es el mantenimiento de sus actualizaciones, ya que se deberá recorrer cada una de las estaciones de trabajo para ejecutar la actualización.
 
 Este proyecto está desarrollado con **Tecnología Python**, la **Librería Tkinter**, **MySQL** para la Base de Datos y mucho amor ;) [G&C](https://github.com/luisjofre/Aplicaciones/commit/bfb31584cfbf26680bf5ae060c8a66bc70f1d9dd "G&C")
 
