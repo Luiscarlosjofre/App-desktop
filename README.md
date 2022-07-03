@@ -103,8 +103,9 @@ Ir al **Zip con el código**
 	Auto-Py-To-Exe.
 
 ***
-**HASTA LA FECHA ESTE ES EL AVANCE DEL PROYECTO 
-(escuela Las Canteras ya tiene en uso la aplicación).**
+**HASTA LA FECHA ESTE ES EL AVANCE DEL PROYECTO**
+
+***(escuela Las Canteras ya tiene en uso la aplicación).***
 
 
 	Vista de la pantalla inicio o interfaz principal sin conexión a la base datos 
