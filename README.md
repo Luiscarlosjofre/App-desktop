@@ -216,10 +216,12 @@ Imagen versión2.0
 
 	Interfaz de configuración de la página de impresión mejorada. Opción Checkbox.
 
-![](https://i.postimg.cc/SNSnF7zX/Capturaver2.png)
+![](https://i.postimg.cc/xjyX4FqD/Capturaver1.png)
 
 
-	
+***
+
+
 **Imagen del PDF final**
 
 ![](https://i.postimg.cc/1tdsksG3/Captura-de-pantalla-93.png)
