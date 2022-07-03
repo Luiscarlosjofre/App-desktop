@@ -249,6 +249,7 @@ uso la aplicación).**
 
 ![](https://i.postimg.cc/sg4xvjsj/LinkedIn.png)		linkedin.com/in/luis-jofré-pérez-508b2755
 
+![](https://i.postimg.cc/zf10SGBY/github.png)		https://github.com/luisjofre
 
 ***Copiapó, julio 2022***
 
