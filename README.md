@@ -194,8 +194,6 @@ Imagen del diseño v1.3
 
 
 
-
-
 ***
 
 ***"INFORME EN PDF"***
@@ -210,6 +208,9 @@ Imagen versión1.0
 	Interfaz de configuración de la página para impresión. Opción Combobox.
 
 ![](https://i.postimg.cc/SNSnF7zX/Capturaver2.png)
+
+
+***
 
 
 Imagen versión2.0
