@@ -1,12 +1,14 @@
 ##  **APLICACIÓN DE ESCRITORIO G&C**
 
-Esta aplicación de escritorio está diseñada para la gestión y control de equipos tecnológicos. Es un **CRUD** (Create, Read, Update and Delete), es decir, que puede crear, buscar, editar y eliminar un registro de la base de datos.
+Esta aplicación de escritorio está diseñada para la ***gestión y control de equipos tecnológicos***. 
+Es un **CRUD** (***Create, Read, Update and Delete***), es decir, que puede ***crear, buscar, editar y eliminar*** un registro de la base de datos.
 
-La principal ventaja de esta aplicación -aparte de la rapidez para ejecutar los procesos dado que sus controles y eventos ocurren en el mismo equipo- con una base de datos conectada de manera local, es ofrecer capacidad de uso sin conexión a internet, siendo funcional en cualquier momento brindando un beneficio por sobre las aplicaciones web.
+La principal ventaja de esta aplicación ***-aparte de la rapidez para ejecutar los procesos dado que sus controles y eventos ocurren en el mismo equipo-***
+con una base de datos conectada de manera local, es ofrecer capacidad de uso sin conexión a internet, siendo funcional en cualquier momento brindando un beneficio por sobre las aplicaciones web.
 
-La desventaja que tienen la mayoría de las aplicaciones de escritorio es el mantenimiento de sus actualizaciones, ya que habrá que recorrer cada una de las estaciones de trabajo para ejecutar la actualización.
+La desventaja que tienen la mayoría de las aplicaciones de escritorio es el mantenimiento de sus actualizaciones, ya que ***habrá que recorrer cada una de las estaciones de trabajo para ejecutar la actualización.
 
-Este proyecto está desarrollado con ***Tecnología Python***, la ***Librería Tkinter***, ***MySQL Community Server*** para la Base de Datos y ***mucho*** ❤️ ;)
+Este proyecto está desarrollado con ***Tecnología Python***, ***la Librería Tkinter***, ***MySQL Community Server*** para la Base de Datos y ***mucho*** ❤️ ;)
 
 [G&C](https://github.com/luisjofre/Aplicaciones/commit/bfb31584cfbf26680bf5ae060c8a66bc70f1d9dd "G&C")
 
@@ -16,7 +18,7 @@ Este proyecto está desarrollado con ***Tecnología Python***, la ***Librería T
 	- Intalación de MySQL Workbench en su sistema operativo, y
 	- Un editor de código.
 
-Descarga de **MySQL** desde su sitio oficial:
+Descarga de **MySQL Community Server** desde su sitio oficial:
 
 	https://www.mysql.com/
 
@@ -24,7 +26,7 @@ Descarga de **MySQL** desde su sitio oficial:
 
 **Paso 1**
 
-Una vez instalado MySQL Workbench, deberá actualizar las credenciales de acceso a la base de datos:
+Una vez instalado ***MySQL Workbench,*** deberá actualizar las credenciales de acceso a la base de datos:
 
 	Host: '127.0.0.1',
 	User: 'root',
@@ -32,10 +34,11 @@ Una vez instalado MySQL Workbench, deberá actualizar las credenciales de acceso
 
 **Paso 2**
 
-Descargar las líneas de código:
+Descargar el Zip con el código desde:
 
 	https://github.com/luisjofre/Aplicaciones.git
-
+	Clic en Code, luego clic en Download Zip para descargar el archivo comprimido.
+	Descomprima el archivo en el escritorio y ejecuta el archivo con el nombre sistema.py desde su editor de cógido preferido.
 
 **Paso 3**
 
