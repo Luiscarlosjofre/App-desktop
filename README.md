@@ -154,41 +154,56 @@ Ir al **Zip con el código**
 
 ***
 
-**PRÓXIMAS ACTUALIZACIONES (en etapa de diseño)**
+**ACTUALIZACIONES AÑO 2022 (en etapa de diseño)**
 
-- Control de acceso a la aplicación
-- Botón Informe en PDF
+- Restricción de acceso a la información a través de controles de usuario y contraseña y
+- Botón Informe en PDF, el cual entregará un informe personalizado del todo el inventario
 
 
-**Control de acceso a la aplicación**
+***
 
-	Formulario para controlar, limitar y evitar el acceso a la base de datos a personas ajenas al establecimiento por medio de
-	credenciales de usuario y contraseña.
+
+
+***CONTROL DE ACCESO A LA APLICACIÓN***
+
+	Formulario para controlar, limitar y evitar el acceso a la base de datos a personas ajenas al establecimiento
+	por medio de credenciales de usuario y contraseña.
+
+***
 	
 Imagen del diseño v1
 
 ![](https://i.postimg.cc/fTKLTthV/login1.png)
 
 
+***
 Imagen del diseño v1.1
 
 ![](https://i.postimg.cc/htZtTkvg/login3.png)
 
 
+***
 Imagen del diseño v1.2
 
 ![](https://i.postimg.cc/fTKLTthV/login1.png)
 
 
+***
 Imagen del diseño v1.3
-
 ![](https://i.postimg.cc/vm1Hz0xn/login4.png)
 
-**Integrar un botón "Informe en PDF"**
 
-	A la interfaz principal se agregará un botón "Informe en PDF", al hacer clic aparecerá otra pantalla para la creación de un
-	informe personalizado en PDF, la que podría visualizarse a pantalla dividida mientras define las opciones de impresión.
 
+
+
+***
+
+***"INFORME EN PDF"***
+
+	A la interfaz principal se agregará un botón "Informe en PDF", que al hacer clic aparecerá otra pantalla para la creación de un
+	informe personalizado en PDF, visualizando a pantalla dividida mientras define las opciones de impresión.
+
+***
 
 **Imagen de la interfaz de configuración de la página para impresión.**
 
