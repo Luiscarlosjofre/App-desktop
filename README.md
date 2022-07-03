@@ -1,6 +1,6 @@
 ##  **APLICACIÓN DE ESCRITORIO G&C**
 
-Esta aplicación de escritorio está diseñada para la gestión y control de equipos tecnológicos. Es un **CRUD** (Create, Read, Update y Delete), es decir, que puede crear, buscar, editar y eliminar un registro de la base de datos.
+Esta aplicación de escritorio está diseñada para la gestión y control de equipos tecnológicos. Es un **CRUD** (Create, Read, Update and Delete), es decir, que puede crear, buscar, editar y eliminar un registro de la base de datos.
 
 La principal ventaja de esta aplicación, aparte de la rapidez para ejecutar los procesos -dado que sus controles y eventos ocurren en el mismo equipo- es ofrecer capacidad de uso sin conexión a internet, siendo funcional en cualquier momento brindando un beneficio por sobre las aplicaciones web.
 
