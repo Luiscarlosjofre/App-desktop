@@ -83,6 +83,7 @@ La Base de Datos del proyecto en MySQL Workbench con sus columnas y registros.
 Se pone a disposición de las escuelas públicas y su comunidad escolar este software con licencia open source (OSS).
 
 **¿Qué es Open  Source?**
+
 El software open source es un código diseñado de manera que sea accesible al público: todos pueden ver, modificar y distribuir el código de la forma que consideren conveniente.
 
 El software open source se desarrolla de manera descentralizada y colaborativa, así que depende de la revisión entre compañeros y la producción de la comunidad. Además, suele ser más económico, flexible y duradero que sus alternativas propietarias, ya que las encargadas de su desarrollo son las comunidades y no un solo autor o una sola empresa.
@@ -93,6 +94,8 @@ El open source se convirtió en un movimiento y una forma de trabajo que trascie
 fuente: https://www.redhat.com/es/topics/open-source/what-is-open-source
 
 Luis Jofré Pérez
+
 luisjofreperez@gmail.com
+
 Copiapo, julio 2022
 
