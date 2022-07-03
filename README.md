@@ -167,7 +167,7 @@ Ir al **Zip con el código**
 ***CONTROL DE ACCESO A LA APLICACIÓN***
 
 	Formulario para controlar, limitar y evitar el acceso a la base de datos a personas ajenas al establecimiento
-	por medio de credenciales de usuario y contraseña.
+	educacional por medio de credenciales de usuario y contraseña.
 
 ***
 	
@@ -205,11 +205,21 @@ Imagen del diseño v1.3
 
 ***
 
-**Imagen de la interfaz de configuración de la página para impresión.**
+Imagen versión1.0 
+	
+	Interfaz de configuración de la página para impresión. Opción Combobox.
 
-![](https://i.postimg.cc/B6bJ7X1z/Captura-de-pantalla-87.png)
+![](https://i.postimg.cc/SNSnF7zX/Capturaver2.png)
 
 
+Imagen versión2.0
+
+	Interfaz de configuración de la página de impresión mejorada. Opción Checkbox.
+
+![](https://i.postimg.cc/SNSnF7zX/Capturaver2.png)
+
+
+	
 **Imagen del PDF final**
 
 ![](https://i.postimg.cc/1tdsksG3/Captura-de-pantalla-93.png)
