@@ -103,7 +103,7 @@ Ir al **Zip con el código**
 	Auto-Py-To-Exe.
 
 ***
-**HASTA LA FECHA ESTE ES EL AVANCE DEL PROYECTO (cabe mencionar que en la escuela Las Canteras ya está en
+**HASTA LA FECHA ESTE ES EL AVANCE DEL PROYECTO (cabe mencionar que escuela Las Canteras ya tiene en
 uso la aplicación).**
 
 
