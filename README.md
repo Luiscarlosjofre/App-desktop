@@ -2,15 +2,6 @@
 
 Esta aplicación de escritorio está diseñada para la gestión y control de equipos tecnológicos. Es un **CRUD** (Create, Read, Update y Delete), es decir, que puede crear, buscar, editar y eliminar un registro de la base de datos.
 
-____________________________________________________________________________________________________________________________________________________________
-Es útil como **Inventario de Contratos de Comodatos**, pero... 
-
-**¿Qué es el comodato?**
-
-El comodato o préstamo de uso es un **contrato** en el cual una de las partes entrega a la otra gratuitamente una especie, mueble o raíz, para que haga uso de ella **con el compromiso y obligación de conservar el bien prestado y restituirlo al concluir su uso**.
-____________________________________________________________________________________________________________________________________________________________
-
-
 La principal ventaja de esta aplicación, aparte de la rapidez para ejecutar los procesos -dado que sus controles y eventos ocurren en el mismo equipo- es ofrecer capacidad de uso sin conexión a internet, siendo funcional en cualquier momento brindando un beneficio por sobre las aplicaciones web.
 
 La desventaja que tienen la mayoría de las aplicaciones de escritorio es el mantenimiento de sus actualizaciones, ya que se deberá recorrer cada una de las estaciones de trabajo para ejecutar la actualización.
