@@ -1,30 +1,32 @@
 ##  **APLICACIÓN DE ESCRITORIO G&C**
 
 Esta aplicación de escritorio está diseñada para la ***gestión y control de equipos tecnológicos***. 
-Es un **CRUD** (***Create, Read, Update and Delete***), es decir, que puede ***crear, buscar, editar y eliminar*** un registro de la base de datos.
 
-La principal ventaja de esta aplicación ***-aparte de la rapidez para ejecutar los procesos dado que sus controles y eventos ocurren en el mismo equipo-***
-con una base de datos conectada de manera local, es ofrecer capacidad de uso sin conexión a internet, siendo funcional en cualquier momento brindando un beneficio por sobre las aplicaciones web.
+Es un **CRUD** (***Create, Read, Update and Delete***), es decir, que puede ***crear, buscar, editar y eliminar*** registros de la base de datos.
 
-La desventaja que tienen la mayoría de las aplicaciones de escritorio es el mantenimiento de sus actualizaciones, ya que ***habrá que recorrer cada una de las estaciones de trabajo para ejecutar la actualización.***
+La principal ventaja de esta aplicación con una base de datos conectada de manera local ***-aparte de la rapidez para ejecutar los procesos dado que sus controles y eventos ocurren en el mismo equipo-***, es ofrecer capacidad de uso sin conexión a internet, siendo funcional en cualquier momento brindando un beneficio por sobre las aplicaciones web.
 
-Este proyecto está desarrollado con ***Tecnología Python***, ***La Librería Tkinter***, ***MySQL Community Server para la Base de Datos y mucho*** ❤️ ;)
+Y la desventaja que tienen la mayoría de las aplicaciones de escritorio es el mantenimiento de sus actualizaciones, ya que ***habrá que recorrer cada una 
+de las estaciones de trabajo para ejecutar la actualización.***
+
+Este proyecto está siendo desarrollado con ***Tecnología Python***, ***La Librería Tkinter***, ***MySQL Community Server para la Base de Datos y mucho*** ❤️
 
 [G&C](https://github.com/luisjofre/Aplicaciones/commit/bfb31584cfbf26680bf5ae060c8a66bc70f1d9dd "G&C")
 
 **Requisitos:**
 
 	- Sistema operativo Windows 10 o superior.
-	- Intalación de MySQL Workbench en su sistema operativo, y
+	- MySQL Workbench instalado en su sistema operativo y
 	- Un editor de código.
 
 Descarga de **MySQL Community Server** desde su sitio oficial:
 
 	https://www.mysql.com/
 
+
 **Instalación**
 
-**Paso 1**
+**PASO 1**
 
 Una vez instalado ***MySQL Workbench,*** deberá actualizar las credenciales de acceso a la base de datos:
 
@@ -32,17 +34,18 @@ Una vez instalado ***MySQL Workbench,*** deberá actualizar las credenciales de 
 	User: 'root',
 	Password: '***********'
 
-**Paso 2**
+**PASO 2**
 
 Descargar el **Zip con el código desde:**
 
 	https://github.com/luisjofre/Aplicaciones.git
 	Clic en Code, luego clic en Download Zip para descargar el archivo comprimido.
+***
 	Descomprima el archivo en el escritorio, posteriormente ejecute el archivo con el nombre sistema.py desde su editor de cógido preferido.
 
-**Paso 3**
+**PASO 3**
 
-Crear lo siguiente en el gestor de bases de datos MySQL Workbench:
+Crear lo siguiente en el gestor de bases de datos ***MySQL Workbench:***
 
 
 **Nombre de la Base de Datos:**
@@ -54,13 +57,14 @@ Crear lo siguiente en el gestor de bases de datos MySQL Workbench:
 
 	"contratos"
 	
+**Ejemplo:**
 
 id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fedevo    |estado  |date      |time    |
 --------|---------------|---------------|---------------|-----------|-----------|-------|------------|----------|----------|--------|----------|--------|
 1	|	Nombre  |      Apellidos|   00.000.000-0|dispositivo|      marca| modelo|000000000000|00-00-0000|00-00-0000|  estado|00-00-0000|00:00:00|
 
 
-**Información de las columnas**
+**Información para la creación de las columnas**
 
 		- id int AI PK
 		- nombre varchar(100)
@@ -76,11 +80,10 @@ id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fede
 		- date varchar(45)
 		- time varchar(45)
 
-**Paso 4**
+**PASO 4**
 
 	Una vez creada la base de datos comodatos y la tabla contratos, podrá importar sus registros en un archivo CSV o JSON
 	teniendo en cuenta el nombre y la cantidad de columnas creadas.
-****
 
 	Vista de la pantalla inicio o interfaz principal sin conexión aún a la base datos (luz roja).
 ![](https://i.postimg.cc/8cKC0ccp/Captura1.png)
