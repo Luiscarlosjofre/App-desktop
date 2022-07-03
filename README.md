@@ -1,8 +1,13 @@
 ##  **APLICACIÓN DE ESCRITORIO G&C**
 
-Esta aplicación de escritorio para su funcionamiento depende de un software que se instala en un equipo de cómputo y de una conexión a la base de datos de manera local.
+Esta aplicación de escritorio está diseñada para la gestión y control de equipos tecnológicos. Es un **CRUD** (Create, Read, Update y Delete), es decir, que puede crear, buscar, editar y eliminar un registro de la base de datos.
 
-Su principal ventaja, aparte de la rapidez para ejecutar los procesos -dado que sus controles y eventos ocurren en el mismo equipo- es ofrecer capacidad de uso sin conexión a internet, siendo funcional en cualquier momento brindando un beneficio por sobre las aplicaciones web.
+Es útil como **Inventario de Contratos de Comodatos**, pero... 
+
+**¿Qué es el comodato?**
+El comodato o préstamo de uso es un **contrato** en el cual una de las partes entrega a la otra gratuitamente una especie, mueble o raíz, para que haga uso de ella **con el compromiso y obligación de conservar el bien prestado y restituirlo al concluir su uso**.
+
+La principal ventaja de esta aplicación, aparte de la rapidez para ejecutar los procesos -dado que sus controles y eventos ocurren en el mismo equipo- es ofrecer capacidad de uso sin conexión a internet, siendo funcional en cualquier momento brindando un beneficio por sobre las aplicaciones web.
 
 La desventaja que tienen la mayoría de las aplicaciones de escritorio es el mantenimiento de sus actualizaciones, ya que se deberá recorrer cada una de las estaciones de trabajo para ejecutar la actualización.
 
@@ -58,7 +63,7 @@ id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fede
 Vista previa de la pantalla de inicio o interfaz principal sin conectar a la base datos.
 ![](https://i.postimg.cc/8cKC0ccp/Captura1.png)
 
-Conectado ya con la base de datos MySQL Workbench, permite realizar todas las operaciones de un **CRUD** (Create, Read, Update y Delete), es decir, agregar o buscar un nuevo contrato, editar o eliminar los registros de la base de datos. Aquí en la imagen vemos la acción del botón "**Mostrar todo**".
+Conectado ya con la base de datos MySQL Workbench, permite realizar todas las operaciones de agregar o buscar un nuevo contrato, editar o eliminar los registros de la base de datos. Aquí en la imagen vemos la acción del botón "**Mostrar todo**".
 
 ![](https://i.postimg.cc/Wp6YJrqL/Captura2.png)
 
