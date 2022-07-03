@@ -173,7 +173,7 @@ Ir al **Zip con el código**
 	
 Imagen del diseño v1
 
-![](https://i.postimg.cc/fTKLTthV/login1.png)
+![](https://i.postimg.cc/bwwvGyz3/login2.png)
 
 
 ***
