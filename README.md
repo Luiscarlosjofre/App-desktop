@@ -44,7 +44,8 @@ Descargar el **Zip con el código desde:**
 	https://github.com/luisjofre/Aplicaciones.git
 	
 	Clic en Code, luego clic en Download Zip para descargar el archivo comprimido.
-	Descomprima el archivo en el escritorio, posteriormente ejecute el archivo con el nombre sistema.py desde su editor de cógido preferido.
+	Descomprima el archivo en el escritorio, posteriormente ejecute el archivo con el nombre sistema.py desde su editor 
+	de cógido preferido.
 
 **PASO 3**
 
