@@ -16,7 +16,7 @@ Este proyecto está siendo desarrollado con ***Tecnología Python, Tkinter, MySQ
 
 ***
 
-Si quiere descargar y modificar el código considere lo siguiente:
+Si quiere descargar y modificar el código para otorgarle nuevas funcionalidades con la Programación Orientada a Objetos (POO), considere lo siguiente:
 
 **Requisitos:**
 
@@ -163,7 +163,18 @@ Ir al **Zip con el código**
 
 
 ***
-**PRÓXIMA ACTUALIZACIÓN (aun en etapa de diseño)**
+**PRÓXIMAS ACTUALIZACIONES (aun en etapa de diseño)**
+
+- Control de acceso a la aplicación
+- Botón Informe en PDF
+
+
+**Control de acceso a la aplicación**
+
+	Formulario para controlar, limitar y evitar el acceso a la base de datos a personas ajenas al establecimiento por medio de
+	credenciales de usuario y contraseña.
+![]()
+
 
 **Integración de un botón "Informe en PDF"**
 
