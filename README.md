@@ -170,11 +170,13 @@ Ir al **Zip con el código**
 	A la interfaz principal se agregará un botón "Informe en PDF", creación de un informe personalizado en PDF con Python 3
 	y la librería FPDF.
 
-Imagen de la interfaz de configuración impresión.
+
+**Imagen de la interfaz de configuración impresión.**
 
 ![](https://i.postimg.cc/B6bJ7X1z/Captura-de-pantalla-87.png)
 
-Imagen del PDF final
+
+**Imagen del PDF final**
 ![](https://i.postimg.cc/1tdsksG3/Captura-de-pantalla-93.png)
 
 
