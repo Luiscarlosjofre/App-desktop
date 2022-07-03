@@ -6,9 +6,9 @@ Es un **CRUD** (***Create, Read, Update and Delete***), es decir, que puede ***c
 La principal ventaja de esta aplicación ***-aparte de la rapidez para ejecutar los procesos dado que sus controles y eventos ocurren en el mismo equipo-***
 con una base de datos conectada de manera local, es ofrecer capacidad de uso sin conexión a internet, siendo funcional en cualquier momento brindando un beneficio por sobre las aplicaciones web.
 
-La desventaja que tienen la mayoría de las aplicaciones de escritorio es el mantenimiento de sus actualizaciones, ya que ***habrá que recorrer cada una de las estaciones de trabajo para ejecutar la actualización.
+La desventaja que tienen la mayoría de las aplicaciones de escritorio es el mantenimiento de sus actualizaciones, ya que ***habrá que recorrer cada una de las estaciones de trabajo para ejecutar la actualización.***
 
-Este proyecto está desarrollado con ***Tecnología Python***, ***la Librería Tkinter***, ***MySQL Community Server*** para la Base de Datos y ***mucho*** ❤️ ;)
+Este proyecto está desarrollado con ***Tecnología Python***, ***La Librería Tkinter***, ***MySQL Community Server para la Base de Datos y mucho*** ❤️ ;)
 
 [G&C](https://github.com/luisjofre/Aplicaciones/commit/bfb31584cfbf26680bf5ae060c8a66bc70f1d9dd "G&C")
 
@@ -34,23 +34,23 @@ Una vez instalado ***MySQL Workbench,*** deberá actualizar las credenciales de 
 
 **Paso 2**
 
-Descargar el Zip con el código desde:
+Descargar el **Zip con el código desde:**
 
 	https://github.com/luisjofre/Aplicaciones.git
 	Clic en Code, luego clic en Download Zip para descargar el archivo comprimido.
-	Descomprima el archivo en el escritorio y ejecuta el archivo con el nombre sistema.py desde su editor de cógido preferido.
+	Descomprima el archivo en el escritorio, posteriormente ejecute el archivo con el nombre sistema.py desde su editor de cógido preferido.
 
 **Paso 3**
 
 Crear lo siguiente en el gestor de bases de datos MySQL Workbench:
 
 
-Nombre de la Base de Datos:
+**Nombre de la Base de Datos:**
 
 	"comodatos"
 	
 	
-Nombre de la Tabla:
+**Nombre de la Tabla:**
 
 	"contratos"
 	
@@ -134,5 +134,5 @@ id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fede
 ![](https://i.postimg.cc/sg4xvjsj/LinkedIn.png)  linkedin.com/in/luis-jofré-pérez-508b2755
 
 
-**Copiapó, julio 2022**
+***Copiapó, julio 2022***
 
