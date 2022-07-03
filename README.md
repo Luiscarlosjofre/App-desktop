@@ -17,17 +17,19 @@ Descarga de **MySQL**:  https://www.mysql.com/
 
 **Instalación**
 
-**1 Paso**
+**Paso 1**
+
 Una vez instalado MySQL Workbench, deberá actualizar las credenciales en el código para dar acceso a la base de datos:
 host: '**127.0.0.1**',
 User: **'root'**
 Password: **' '**
 
-**2 Paso**
+**Paso 2**
+
 Descargar código: https://github.com/luisjofre/Aplicaciones.git
 
 
-**3 Paso**
+**Paso 3**
 
 Crear lo siguiente en el gestor de bases de datos MySQL:
 ###### Nombre de la Base de Datos **comodatos**.
