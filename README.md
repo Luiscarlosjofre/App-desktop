@@ -1,17 +1,19 @@
 ##  **APLICACIÓN DE ESCRITORIO G&C v2.0**
 
-Esta aplicación de escritorio está diseñada para la ***gestión y control de equipos tecnológicos***. 
+***Este Proyecto de Mejora, fue diseñado para mejorar la gestión y control de los equipos tecnológicos en la escuela Las Canteras, ubicada en la ciudad de Copiapó, el cual me permitió cumplir con la Práctica Profesional para la Carrera Técnico de Nivel Superior en Informática, en el Instituto Superior de Artes
+y Ciencias de la Comunicación IACC.***
 
-Es un **CRUD** (***Create, Read, Update and Delete***), es decir, que puede ***crear, buscar, editar y eliminar*** registros de la base de datos.
+Es un ***CRUD*** (***Create, Read, Update and Delete***), es decir, que puede ***crear, buscar, editar y eliminar*** registros de la base de datos.
 
-La principal ventaja de esta aplicación con una base de datos conectada de manera local ***-aparte de la rapidez para ejecutar los procesos dado que sus controles y eventos ocurren en el mismo equipo-***, es ofrecer capacidad de uso sin conexión a internet, siendo funcional en cualquier momento brindando un beneficio por sobre las aplicaciones web.
+La principal ventaja de esta aplicación***-aparte de la rapidez para ejecutar los procesos dado que sus controles y eventos ocurren en el mismo 
+equipo-***, es ofrecer capacidad de uso sin conexión a internet, siendo funcional en cualquier momento brindando un beneficio por sobre las aplicaciones
+web, siempre y cuando este conectada a una base de datos localmente.*** 
 
-La desventaja que tiene esta aplicación de escritorio es el mantenimiento de sus actualizaciones, ya que ***habrá que recorrer cada una 
-de las estaciones de trabajo para ejecutar la actualización cada vez que lo requiera*** :)
+Ahora, la desventaja que tiene esta aplicación de escritorio, es el mantenimiento de sus actualizaciones, ya que ***habrá que recorrer cada una de las estaciones de trabajo para ejecutar la actualización cada vez que lo requiera*** :)
 
-Este proyecto está siendo desarrollado con ***Tecnología Python***, ***Tkinter***, ***MySQL Community Server para la Base de Datos y mucho, mucho*** ❤️
+Este proyecto está siendo desarrollado con ***Tecnología Python***, ***Tkinter***, ***MySQL Community Server*** para la Base de Datos y ***mucho, mucho*** ❤️
 
-[G&C](https://github.com/luisjofre/Aplicaciones/commit/bfb31584cfbf26680bf5ae060c8a66bc70f1d9dd "G&C")
+[G&Cv2.0](https://github.com/luisjofre/Aplicaciones/commit/bfb31584cfbf26680bf5ae060c8a66bc70f1d9dd "G&Cv2.0")
 
 ***
 
