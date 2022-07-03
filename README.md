@@ -87,4 +87,4 @@ fuente: https://www.redhat.com/es/topics/open-source/what-is-open-source
 Luis Jofré Pérez
 luisjofreperez@gmail.com
 Copiapo, julio 2022
-###End
+
