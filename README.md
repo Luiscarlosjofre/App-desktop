@@ -85,6 +85,13 @@ id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fede
 	Una vez creada la base de datos comodatos y la tabla contratos, podrá importar sus registros en un archivo CSV o JSON
 	teniendo en cuenta el nombre y la cantidad de columnas creadas.
 
+
+**Paso 5**
+	
+	Para compilar y convertir en ejecutable el código existen algunas alternativas como pyinstaller o Auto-Py-To-Exe
+
+***
+	
 	Vista de la pantalla inicio o interfaz principal sin conexión aún a la base datos (luz roja).
 ![](https://i.postimg.cc/8cKC0ccp/Captura1.png)
 
@@ -104,9 +111,6 @@ id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fede
 	Por último, una imagen de la Base de Datos MySQL Workbench con sus columnas y registros.
 ![](https://i.postimg.cc/CxQwT9wN/Captura5.png)
 
-**Paso 5**
-	
-	Para compilar y convertir en ejecutable el código existen algunas alternativas como pyinstaller o Auto-Py-To-Exe
 
 **Licencia**
 
