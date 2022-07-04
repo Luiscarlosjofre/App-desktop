@@ -5,8 +5,8 @@
 ***Esta aplicación es un CRUD, que en computación es el acrónimo de Crear, Leer, Actualizar y Borrar (en inglés: Create, Read, Update and Delete). Se usa para referirse a las funciones básicas en bases de datos.***
 
 La principal ventaja de esta aplicación ***-aparte de la rapidez para ejecutar los procesos, dado que sus controles y eventos ocurren en el mismo 
-equipo- es ofrecer capacidad de uso sin conexión a internet, siendo funcional en cualquier momento brindando un beneficio por sobre las aplicaciones
-web, siempre y cuando este conectada a una base de datos localmente.*** 
+equipo-*** es ofrecer capacidad de uso sin conexión a internet, siendo funcional en cualquier momento brindando un beneficio por sobre las aplicaciones
+web, siempre y cuando este conectada a una base de datos localmente.
 
 Ahora, la desventaja que tiene esta aplicación de escritorio, ***es el mantenimiento de sus actualizaciones, siempre que lo requiera, habrá que recorrer cada una de las estaciones de trabajo para ejecutar la actualización*** :)
 
