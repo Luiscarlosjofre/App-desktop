@@ -1,10 +1,10 @@
 ##  **APLICACIÓN DE ESCRITORIO G&C v2.0**
 
-***Este Proyecto de Mejora, fue diseñado para beneficiar la gestión de los equipos tecnológicos que tiene escuela Las Canteras, el cual me permitió cumplir con la Práctica Profesional para la Carrera Técnico de Nivel Superior en Informática, en el Instituto Superior de Artes y Ciencias de la Comunicación IACC.***
+***Este Proyecto de Mejora, fue diseñado para beneficiar la gestión de los equipos tecnológicos que tiene escuela Las Canteras, lo que me permitió cumplir con la Práctica Profesional.***
 
 ***Esta aplicación es un CRUD, que en computación es el acrónimo de Crear, Leer, Actualizar y Borrar (en inglés: Create, Read, Update and Delete). Se usa para referirse a las funciones básicas en bases de datos.***
 
-La principal ventaja de esta aplicación ***-aparte de la rapidez para ejecutar los procesos dado que sus controles y eventos ocurren en el mismo 
+La principal ventaja de esta aplicación ***-aparte de la rapidez para ejecutar los procesos, dado que sus controles y eventos ocurren en el mismo 
 equipo- es ofrecer capacidad de uso sin conexión a internet, siendo funcional en cualquier momento brindando un beneficio por sobre las aplicaciones
 web, siempre y cuando este conectada a una base de datos localmente.*** 
 
