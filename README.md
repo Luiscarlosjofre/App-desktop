@@ -1,7 +1,5 @@
 ##  **APLICACIÓN DE ESCRITORIO G&C v2.0**
 
-***Este Proyecto de Mejora, fue diseñado para beneficiar la gestión de los equipos tecnológicos que tiene escuela Las Canteras, lo que me permitió cumplir con la Práctica Profesional.***
-
 ***Esta aplicación es un CRUD, que en computación es el acrónimo de Crear, Leer, Actualizar y Borrar (en inglés: Create, Read, Update and Delete). Se usa para referirse a las funciones básicas en bases de datos.***
 
 La principal ventaja de esta aplicación ***-aparte de la rapidez para ejecutar los procesos, dado que sus controles y eventos ocurren en el mismo 
@@ -12,101 +10,7 @@ Ahora, la desventaja que tiene esta aplicación de escritorio, ***es el mantenim
 
 Este proyecto está siendo desarrollado con ***Tecnología Python, Tkinter, MySQL Community Server para la Base de Datos y mucho, mucho*** ❤️
 
-[G&Cv2.0](https://github.com/luisjofre/Aplicaciones/commit/bfb31584cfbf26680bf5ae060c8a66bc70f1d9dd "G&Cv2.0")
-
 ***
-
-Si quiere descargar y modificar el código para otorgarle nuevas funcionalidades con la Programación Orientada a Objetos (POO), considere lo siguiente:
-
-**Requisitos:**
-
-	- Sistema operativo Windows 10 o superior.
-	- Python 3.0 o superior instalado
-	- MySQL Workbench instalado y
-	- Un editor de código.
-
-Descarga de **MySQL Community Server** desde su sitio oficial:
-
-	https://www.mysql.com/
-
-
-**Instalación**
-
-**PASO 1**
-
-Una vez descargado ***MySQL Workbench,*** requerirá actualizar las credenciales de acceso antes de instalar el gestor de bases de datos.
-
-	Host: '127.0.0.1',
-	User: 'root',
-	Password: '***********'
-
-**PASO 2**
-
-instalar ***MySQL Workbench*** y crear lo siguiente: 
-
-
-**Nombre de la Base de Datos:**
-
-	"comodatos"
-	
-	
-**Nombre de la Tabla:**
-
-	"contratos"
-	
-**Ejemplo:**
-
-id	| nombre	|apellidos	|run		|dispositivo|marca	|modelo	|serie	     |fepre	|fedevo    |estado  |date      |time    |
---------|---------------|---------------|---------------|-----------|-----------|-------|------------|----------|----------|--------|----------|--------|
-1	|	Nombre  |      Apellidos|   00.000.000-0|dispositivo|      marca| modelo|000000000000|00-00-0000|00-00-0000|  estado|00-00-0000|00:00:00|
-
-
-**Información para la creación de las columnas**
-- id int AI PK
-- nombre varchar(100)
-- apellidos varchar(100)
-- run varchar(30)
-- dispositivo varchar(45)
-- marca varchar(45)
-- modelo varchar(45)
-- serie varchar(45)
-- fepre varchar(45) (fecha préstamo)
-- fedevo varchar(45) (fecha devolución)
-- estado varchar(45)
-- date varchar(45)
-- time varchar(45)
-
-
-**PASO 3**
-
-
-	Una vez creada la base de datos "comodatos" y la tabla "contratos", podrá importar sus registros en
-	un archivo CSV o JSON teniendo en cuenta el nombre y la cantidad de columnas creadas.
-
-
-**PASO 4**
-
-Ir al **Zip con el código**
-
-	https://github.com/luisjofre/Aplicaciones.git
-	
-	Una vez allí, hacer clic en Code, luego clic en Download Zip para descargar el archivo comprimido.
-	Descomprima el Zip en el escritorio, ejecute el archivo con el nombre sistema.py desde su editor de
-	cógido preferido.
-
-
-**PASO 5**
-	
-	Luego de reemplazar el nombre del establecimiento, la insignia y todos los datos que aparecen de
-	escuela Las Canteras y haber terminado de modificar el código, listo para producción y quiera 
-	compilarlo para convertirlo en ejecutable, existen algunas alternativas como pyinstaller o 
-	Auto-Py-To-Exe.
-
-***
-**HASTA LA FECHA ESTE ES EL AVANCE DEL PROYECTO**
-
-***(escuela Las Canteras ya tiene en uso la aplicación).***
-
 
 	Vista de la pantalla inicio o interfaz principal sin conexión a la base datos 
 	indicador visual luz roja).
@@ -142,7 +46,7 @@ Ir al **Zip con el código**
 **Licencia**
 
 	Open Source Software (OSS) o software de código abierto, 
-	con el objetivo seguir fortaleciendo esta hermosa comunidad.
+	con el objetivo de seguir fortaleciendo esta hermosa comunidad.
 
 **¿Qué es Open Source Software?**
 
@@ -161,86 +65,6 @@ Ir al **Zip con el código**
 	fuente: https://www.redhat.com/es/topics/open-source/what-is-open-source
 
 ***
-
-**ACTUALIZACIONES AÑO 2022 (en etapa de diseño)**
-
-- Restricción de acceso a la información a través de controles de usuario y contraseña y
-- Botón Informe en PDF, el cual entregará un informe personalizado del todo el inventario
-
-
-***
-
-
-
-***CONTROL DE ACCESO A LA APLICACIÓN***
-
-	Formulario para controlar, limitar y evitar el acceso a la base de datos a personas ajenas al
-	establecimiento	educacional por medio de credenciales de usuario y contraseña.
-
-***
-	
-***Diseño versión1.0***
-
-![](https://i.postimg.cc/bwwvGyz3/login2.png)
-
-
-***
-
-***Diseño versión1.1***
-
-![](https://i.postimg.cc/htZtTkvg/login3.png)
-
-
-***
-
-***Diseño versión1.2***
-
-![](https://i.postimg.cc/fTKLTthV/login1.png)
-
-
-***
-
-
-***Diseño versión1.3***
-
-![](https://i.postimg.cc/vm1Hz0xn/login4.png)
-
-
-
-***
-
-***"INFORME EN PDF"***
-
-	A la interfaz principal se agregará un botón "Informe en PDF", que al hacer clic aparecerá otra 
-	pantalla para la creación de un	informe personalizado en PDF, visualizando a pantalla dividida
-	mientras define las opciones de impresión.
-
-***
-
-***Diseño versión1.0*** 
-	
-	Interfaz de configuración de la página para impresión. Opción Combobox.
-
-![](https://i.postimg.cc/SNSnF7zX/Capturaver2.png)
-
-
-***
-
-
-***Diseño versión2.0***
-
-	Interfaz de configuración de la página de impresión mejorada. Opción Checkbox.
-
-![](https://i.postimg.cc/xjyX4FqD/Capturaver1.png)
-
-
-***
-
-
-**Imagen del PDF final**
-
-![](https://i.postimg.cc/1tdsksG3/Captura-de-pantalla-93.png)
-
 
 ***
 
