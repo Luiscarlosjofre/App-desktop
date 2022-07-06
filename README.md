@@ -8,7 +8,7 @@
 ***
 
 	Already connected with the MySQL Workbench database (visual indicator green light), allows you to perform the operations of adding, searching for a new 	contract, editing, or deleting the records from the database of data. In the following image we see the result (in gray) of the action of the "Show all" button.
-![](https://i.postimg.cc/Wp6YJrqL/Captura2.png)
+![](https://i.postimg.cc/PqPTVT7w/2.png)
 
 ***
 
