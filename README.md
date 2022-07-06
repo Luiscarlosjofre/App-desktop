@@ -13,7 +13,7 @@
 ***
 
 	You can perform a search of the records in the database by id, first name, last name, run, device, make, model, serial number, etc.
-![](https://i.postimg.cc/D0yrGSRn/Captura3.png)
+![](https://i.postimg.cc/x1QPPdc6/3.png)
 
 ***
 
