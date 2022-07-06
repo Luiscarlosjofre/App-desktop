@@ -3,7 +3,7 @@
 ***This application is a CRUD, which in computing is the acronym for Create, Read, Update and Delete. It is used to refer to basic functions in databases. The main advantage of this application -apart from the speed to execute the processes, given that its controls and events occur on the same computer- is to offer usability without an internet connection, being functional at any time providing a benefit over web applications, as long as it is connected to a database locally. Now, the disadvantage that this desktop application has, is the maintenance of its updates, whenever it requires it, you will have to go through each of the workstations to run the update :) This project is being developed with Python Technology, Tkinter, MySQL Community Server for The Database and much, much  *** ❤️
 
 	View of the start screen or main interface without connection to the database (visual indicator red light).
-![](https://i.postimg.cc/8cKC0ccp/Captura1.png)
+![](https://i.postimg.cc/261yW4Yg/1.png)
 
 ***
 
