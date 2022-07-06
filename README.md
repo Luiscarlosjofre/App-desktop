@@ -18,7 +18,7 @@
 ***
 
 	It is worth remembering that the database must be backed up periodically. This application allows you to export a. CSV to your computer with all the 		records of your database.
-![]()
+![](https://i.postimg.cc/WzRZb9Z5/4.png)
 
 ***
 	MySQL Workbench database with its columns and records.
