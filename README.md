@@ -26,18 +26,6 @@
 
 ***
 
-**License**
-
-	Open Source Software (OSS) or open source software, with the aim of continuing to strengthen this beautiful community.
-
-**What is Open Source Software?**
-
-	Open source software is code designed in a way that is accessible to the public: everyone can view, modify, and distribute the code in any way they see 	fit. Open source software is developed in a decentralized and collaborative way, so it depends on the peer review and community production. In addition, 	 it is usually cheaper, more flexible and durable than its proprietary alternatives, since those responsible for its development are the communities and 	 not a single author or a single company. Open source became a movement and a way of working that transcends production of the software. Adopts the 		values and decentralized production model of open source software to find new ways to solve problems in communities.
-
-	fuente: https://www.redhat.com/es/topics/open-source/what-is-open-source
-
-***
-
 ***
 
 ![](https://i.postimg.cc/25j6WsS4/Gmail.png)		luisjofreperez@gmail.com
