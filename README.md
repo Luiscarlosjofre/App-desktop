@@ -36,6 +36,7 @@
 
 ![](https://i.postimg.cc/zf10SGBY/github.png)		https://github.com/luisjofre
 
+![](https://i.postimg.cc/sXZccHRr/cap.png)		https://escuelasegura.cl/
 
 ***Copiapó, julio 2022***
 
